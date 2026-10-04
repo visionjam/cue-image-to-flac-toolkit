@@ -15,9 +15,12 @@
 
 ## 依赖
 
-- Python ≥ 3.10
-- `ffmpeg` / `ffprobe` 在 PATH（需支持 APE 解码与 FLAC 编码，官方 full build 即可）
-- `pip install mutagen pytest`
+- **Python ≥ 3.10** — 官网下载：https://www.python.org/downloads/
+- **ffmpeg / ffprobe**（需支持 APE 解码与 FLAC 编码，官方 full build 即可）— 下载：https://ffmpeg.org/download.html
+  - Windows 推荐构建：[gyan.dev ffmpeg builds](https://www.gyan.dev/ffmpeg/builds/) 或 [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds/releases)（解压后将 `bin` 目录加入 PATH）
+  - macOS：`brew install ffmpeg` ｜ Linux：发行版包管理器或 [官方静态构建](https://johnvansickle.com/ffmpeg/)
+- **mutagen** — https://pypi.org/project/mutagen/ （`pip install mutagen`）
+- **pytest**（仅运行测试需要）— https://pypi.org/project/pytest/ （`pip install pytest`）
 
 ## 用法
 
@@ -62,3 +65,7 @@ docs/       设计文档与实施计划
 - 输入为 44.1kHz/16bit/立体声（CD 规格）；其他规格会被拒绝并报错
 - 单 FILE 单碟 CUE（多碟 CUE 会作为错误处理）
 - APE 解码依赖 ffmpeg 内置解码器；个别损坏文件需外部解码器兜底
+
+## 许可证
+
+本项目以 [MIT 许可证](LICENSE) 开源。
