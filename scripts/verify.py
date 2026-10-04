@@ -54,10 +54,10 @@ def verify_album(folder_name: str, *, source_root: Path, output_root: Path,
 
     starts = [t.start_samples for t in cue.tracks]
     counts = [starts[i + 1] - starts[i] for i in range(len(starts) - 1)] + [nframes - starts[-1]]
-    if sum(counts) != nframes:
-        problems.append("sample count mismatch")
 
     rows = []
+    total_frames = 0
+    checked = 0
     for trk, start, count in zip(cue.tracks, starts, counts):
         fname = cuelib.track_file_name(trk.number, trk.title)
         fp = album_dir / fname
@@ -72,6 +72,20 @@ def verify_album(folder_name: str, *, source_root: Path, output_root: Path,
             continue
         if exp != got:
             problems.append(f"{trk.number:02d} md5 mismatch")
+        # 产物实际帧数核对：总样本数证明必须来自成品解码结果，不能对 counts 自身求和
+        chk_wav = tmp / f"chk{trk.number:02d}.wav"
+        try:
+            decode_to_wav(fp, chk_wav)
+            got_frames = wav_info(chk_wav)[0]
+        except AudioError as e:
+            problems.append(f"{trk.number:02d} frame count decode error: {e}")
+        else:
+            total_frames += got_frames
+            checked += 1
+            if got_frames != count:
+                problems.append(f"{trk.number:02d} frame count {got_frames} != expected {count}")
+        finally:
+            chk_wav.unlink(missing_ok=True)
         info = probe_audio(fp)
         if info.get("codec_name") != "flac" or int(info.get("sample_rate", 0)) != 44100 \
                 or int(info.get("channels", 0)) != 2:
@@ -94,6 +108,10 @@ def verify_album(folder_name: str, *, source_root: Path, output_root: Path,
         rows.append({"album": cue.album, "track": trk.number, "title": trk.title,
                      "duration": f"{count // rate // 60}:{count // rate % 60:02d}",
                      "file": fname, "md5": got})
+
+    if total_frames != nframes or checked != len(cue.tracks):
+        problems.append(f"total sample count mismatch: tracks {checked}/{len(cue.tracks)}, "
+                        f"frames {total_frames}/{nframes}")
 
     if album_dir.exists() and not (album_dir / "cover.jpg").exists():
         problems.append("cover.jpg missing in output album dir")
