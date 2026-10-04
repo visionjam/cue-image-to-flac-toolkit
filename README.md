@@ -47,7 +47,7 @@ python scripts/source_manifest.py before <源目录> <清单文件>
 scripts/    工具链代码与测试（pytest，全部用例在真实 ffmpeg/mutagen 上运行）
 meta/       经查证并审计的专辑元数据（JSON；_ 前缀为原始查询证据）
 reports/    校验报告、曲目清单、元数据来源账、交叉复核报告
-docs/       设计文档与实施计划
+docs/       设计文档、实施计划、封面处理经验（docs/cover-handling.md）
 ```
 
 ## 无损校验的口径
