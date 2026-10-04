@@ -83,7 +83,10 @@ _MD5_RE = re.compile(rb"MD5=([0-9a-f]{32})")
 
 
 def flac_pcm_md5(path: str | Path) -> str:
-    p = _run([FFMPEG, "-v", "error", "-i", path, "-c:a", "pcm_s16le", "-f", "md5", "-"],
+    # -map 0:a:0: 带内嵌封面的 FLAC 会把图片暴露为第二个流；不限定流时
+    # ffmpeg -f md5 会把图片数据一并计入散列，导致与源 WAV 区段的 PCM MD5 不等。
+    p = _run([FFMPEG, "-v", "error", "-i", path, "-map", "0:a:0",
+              "-c:a", "pcm_s16le", "-f", "md5", "-"],
              "ffmpeg(md5)")
     m = _MD5_RE.search(p.stdout)
     if not m:
