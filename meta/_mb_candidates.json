@@ -1,0 +1,223 @@
+{
+  "1997.12.06 - DAVID.TAO": {
+    "album": "David Tao",
+    "candidates": [
+      {
+        "id": "60adc6c0-b2ea-4b37-a0ba-6c77f6463989",
+        "title": "David Tao",
+        "date": "2004-01-02",
+        "country": "IT",
+        "score": 100,
+        "label": null,
+        "catalog_number": null,
+        "barcode": null,
+        "artists": [
+          "陶喆"
+        ]
+      }
+    ]
+  },
+  "1999.12.10 - I'm.OK": {
+    "album": "I'm OK",
+    "candidates": [
+      {
+        "id": "baa723fd-ac31-310e-8065-53eaddfba864",
+        "title": "I’m OK",
+        "date": "2003",
+        "country": "TW",
+        "score": 100,
+        "label": "ECentury",
+        "catalog_number": null,
+        "barcode": "4719862440010",
+        "artists": [
+          "陶喆"
+        ]
+      },
+      {
+        "id": "660048a6-04d8-4baa-8b8f-e03e7e45a51a",
+        "title": "I’m OK",
+        "date": "1999-12-10",
+        "country": "TW",
+        "score": 100,
+        "label": "Shock Records",
+        "catalog_number": "SCD2001",
+        "barcode": "4719862440010",
+        "artists": [
+          "陶喆"
+        ]
+      },
+      {
+        "id": "e6cefde8-f30d-4d86-934c-797bebba5df0",
+        "title": "I’m OK",
+        "date": "1999",
+        "country": "CN",
+        "score": 100,
+        "label": "EEG",
+        "catalog_number": null,
+        "barcode": null,
+        "artists": [
+          "陶喆"
+        ]
+      },
+      {
+        "id": "eecfba20-63e3-4a9f-94fd-cdfa5037ed9e",
+        "title": "I'm OK Live 2000",
+        "date": "2000-03-01",
+        "country": "CN",
+        "score": 90,
+        "label": "Blues R&B",
+        "catalog_number": "[none]",
+        "barcode": "",
+        "artists": [
+          "陶喆"
+        ]
+      }
+    ]
+  },
+  "2002.08.09 - 黑色柳丁": {
+    "album": "黑色柳丁",
+    "candidates": [
+      {
+        "id": "4484a84b-8c1e-4e2d-bcf5-7ebc1f983944",
+        "title": "黑色柳丁",
+        "date": "2002-08-06",
+        "country": "CN",
+        "score": 100,
+        "label": null,
+        "catalog_number": null,
+        "barcode": null,
+        "artists": [
+          "陶喆"
+        ]
+      },
+      {
+        "id": "161d7e8e-29de-4ca2-a755-dd3595650aa4",
+        "title": "黑色柳丁",
+        "date": "2002-08-09",
+        "country": "TW",
+        "score": 100,
+        "label": "Shock Records",
+        "catalog_number": "SCD2005",
+        "barcode": "4719862441055",
+        "artists": [
+          "陶喆"
+        ]
+      },
+      {
+        "id": "6bbefda8-3db3-42f1-a250-3b4c296c39ab",
+        "title": "黑色柳丁",
+        "date": "2002-08-06",
+        "country": "CN",
+        "score": 100,
+        "label": null,
+        "catalog_number": null,
+        "barcode": null,
+        "artists": [
+          "陶喆"
+        ]
+      },
+      {
+        "id": "bade1adc-6282-427e-802d-b523ab3ad434",
+        "title": "黑色柳丁",
+        "date": "2002-08-09",
+        "country": "TW",
+        "score": 100,
+        "label": "Shock Records",
+        "catalog_number": null,
+        "barcode": null,
+        "artists": [
+          "陶喆"
+        ]
+      }
+    ]
+  },
+  "2003.08.08 - ULTRASOUND乐之路1997-2003": {
+    "album": "ULTRASOUND乐之路1997-2003",
+    "candidates": []
+  },
+  "2005.01.21 - 太平盛世": {
+    "album": "太平盛世",
+    "candidates": [
+      {
+        "id": "d9ac0f19-1259-4bee-82b8-2bf3f612e851",
+        "title": "太平盛世",
+        "date": "2005",
+        "country": "CN",
+        "score": 100,
+        "label": null,
+        "catalog_number": null,
+        "barcode": null,
+        "artists": [
+          "陶喆"
+        ]
+      },
+      {
+        "id": "09a586bd-6f45-4f8c-9923-2d20333a13cf",
+        "title": "太平盛世",
+        "date": "2005-01-21",
+        "country": "TW",
+        "score": 100,
+        "label": "EMI",
+        "catalog_number": "ED04C12",
+        "barcode": "0724356380523",
+        "artists": [
+          "陶喆"
+        ]
+      }
+    ]
+  },
+  "2006.01.21 - 太美丽": {
+    "album": "太美丽",
+    "candidates": [
+      {
+        "id": "884c31cc-3fc1-4de0-ad96-efad887f318e",
+        "title": "太美麗",
+        "date": "2006-08-04",
+        "country": "TW",
+        "score": 100,
+        "label": "EMI",
+        "catalog_number": "ED06C01",
+        "barcode": "0094637271629",
+        "artists": [
+          "陶喆"
+        ]
+      }
+    ]
+  },
+  "2009.08.21 - 69乐章": {
+    "album": "69乐章",
+    "candidates": [
+      {
+        "id": "7abaaf1b-031d-4a6d-a15b-c5693607653b",
+        "title": "69樂章",
+        "date": "2009-08-21",
+        "country": "TW",
+        "score": 100,
+        "label": "金牌大風",
+        "catalog_number": "ED09E08",
+        "barcode": "4714127660387",
+        "artists": [
+          "陶喆"
+        ]
+      }
+    ]
+  },
+  "2013.06.11 - 再见你好吗": {
+    "album": "再见你好吗",
+    "candidates": [
+      {
+        "id": "1ae5b83c-8b57-4ece-b16b-c6fd6b46d260",
+        "title": "再見你好嗎",
+        "date": "2013-06-11",
+        "country": "TW",
+        "score": 100,
+        "label": "Seed Music",
+        "catalog_number": "GR13C0001",
+        "barcode": "4711448510025",
+        "artists": [
+          "陶喆"
+        ]
+      }
+    ]
+  }
+}
