@@ -27,7 +27,7 @@
 | 目标 | 命令要点 | HTTP | 结论 |
 |---|---|---|---|
 | `zh.wikipedia.org/wiki/...` 直连 | 无代理 | **000**（12.0s 超时） | 不可达 |
-| `zh.wikipedia.org/wiki/...` | `-x http://127.0.0.1:7890` | **200**（1.7s） | 可达 |
+| `zh.wikipedia.org/wiki/...` | `-x http://127.0.0.1:<port>` | **200**（1.7s） | 可达 |
 | `zh.wikipedia.org/w/api.php` | 同上（搜索/修订号） | **200** | 可达 |
 | `baike.baidu.com/item/...` | 直连＋浏览器 UA | **403**（0.17s，返回「百度安全验证」） | **反爬拦截** |
 | `baike.baidu.com/search?word=...` | 直连 | **403**（带 `rn=10&enc=utf8&onlySite=1` 时 200，但仅 1.7 KB JS 空壳，无服务端结果） | 无可用数据 |
@@ -293,9 +293,9 @@ meta 为 `[]`（未查到）而新源有值的字段。**强弱两档**：
 
 ```bash
 # 维基：必须显式走代理（curl 不读系统代理）
-curl -s -x http://127.0.0.1:7890 -A "Mozilla/5.0" --max-time 30 \
+curl -s -x http://127.0.0.1:<port> -A "Mozilla/5.0" --max-time 30 \
   "https://zh.wikipedia.org/w/api.php?action=query&list=search&srsearch=<关键词>&format=json"
-curl -s -x http://127.0.0.1:7890 -A "Mozilla/5.0" --max-time 30 \
+curl -s -x http://127.0.0.1:<port> -A "Mozilla/5.0" --max-time 30 \
   "https://zh.wikipedia.org/wiki/<条目名>"
 
 # 百度：baike.baidu.com/item/* 直连返回 403「百度安全验证」，
