@@ -1991,3 +1991,13 @@ GitHub 页面文件列表与 `git ls-files` 数量一致；README 正常渲染�
 - 产出 `reports\source-crosscheck-2026-10-04.md`：总览（可达性/确认数/分歧数/可填补数）→ 分歧清单（meta 值+来源URL ｜ 新源值+URL）→ 可填补清单（专辑/轨号/字段/值/URL）。
 - **不改动** `meta\*.json` 与 `metadata-provenance.csv`；分歧只记录，向用户汇报后再定。
 - 原始 HTML 证据存 SDD 工作区 `crosscheck\`（不入库）；报告提交入库。
+
+---
+
+### Task 8c: 元数据补齐执行（检查点裁定后，2026-10-04）
+
+- 用户裁定：**全量补齐** 103 处可填补项（剔除 8b 标注「全碟声明不适用」的轨）+ **执行** 黑色柳丁 #9 作词补入「孙仪」。
+- 更新 `meta\*.json`（空字段→有值；#9 lyricist→`["陶喆","孙仪","娃娃"]`）与 `reports\metadata-provenance.csv`（把对应「未查到」行替换为有值来源行，单 URL，来源强度优先 逐轨 > 合并 > 全碟；#9 行改值改源）。
+- 校验：`python scripts/check_meta.py --all` 必须 8/8 `[OK]`；全量测试保持全绿。
+- 产出 `reports\metadata-fill-log-2026-10-04.md`：分类计数、剔除清单及理由、#9 更正记录、补齐前后覆盖率对照。
+- 提交（Co-Authored-By 尾注）。
