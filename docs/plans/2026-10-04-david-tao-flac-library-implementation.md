@@ -1981,3 +1981,13 @@ cd "E:/音乐库-工作区" && git remote add origin <用户提供的URL> && git
 GitHub 页面文件列表与 `git ls-files` 数量一致；README 正常渲染。
 
 **CHECKPOINT：推送前必须获得用户对「仓库名 + 公开/私有 + 分支名」的明确确认。**
+
+---
+
+### Task 8b: 维基/百度补充交叉复核（T8 检查点追加，2026-10-04）
+
+- 背景：T8 检查点时用户指出维基百科可达（经代理）。实测：zh.wikipedia 需 `curl -x http://127.0.0.1:7890`（直连被墙）；baike.baidu.com 直连可达；mojim 真不可达；**WebFetch 工具在本机对所有域名不可用，一律改用 curl**。
+- 对 8 张专辑用 zh.wikipedia（经代理）+ baike.baidu.com（直连）做第三方交叉验证：逐轨比对 作词/作曲/编曲。
+- 产出 `reports\source-crosscheck-2026-10-04.md`：总览（可达性/确认数/分歧数/可填补数）→ 分歧清单（meta 值+来源URL ｜ 新源值+URL）→ 可填补清单（专辑/轨号/字段/值/URL）。
+- **不改动** `meta\*.json` 与 `metadata-provenance.csv`；分歧只记录，向用户汇报后再定。
+- 原始 HTML 证据存 SDD 工作区 `crosscheck\`（不入库）；报告提交入库。
