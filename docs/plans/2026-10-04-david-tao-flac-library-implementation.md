@@ -1858,13 +1858,13 @@ cd "E:/音乐库-工作区" && ls "E:/音乐库/陶喆" && du -sh "E:/音乐库/
 
 Expected: 8 个专辑目录，合计约 2.5–3GB。
 
-- [ ] **Step 3: 提交（meta/日志快照，不含音频）**
+- [ ] **Step 3: 检查工作树（logs/ 按设计不入库）**
 
 ```bash
-cd "E:/音乐库-工作区" && git add logs/ && git commit -m "chore: batch conversion logs for remaining 7 albums
-
-Co-Authored-By: Claude Code <noreply@anthropic.com>"
+cd "E:/音乐库-工作区" && git status --short
 ```
+
+Expected: 无 `logs/` 条目（已被 .gitignore 忽略，这是有意设计——逐轨 md5 证据在 `reports\tracklist.csv`，无需把运行日志入库）；除 reports/ 等预期变更外无异常。
 
 ---
 
