@@ -1,0 +1,184 @@
+{
+  "folder": "2002.08.09 - 黑色柳丁",
+  "album": "黑色柳丁",
+  "date": "2002-08-09",
+  "year": 2002,
+  "musicbrainz": {
+    "release_id": "161d7e8e-29de-4ca2-a755-dd3595650aa4",
+    "release_group_id": "ada64ee0-8bd4-3f23-acc0-a3e937431bf0",
+    "artist_id": "38fe7fb3-2bde-4672-8016-2ba6f7d1808f",
+    "label": "Shock Records",
+    "country": "TW",
+    "catalog_number": "SCD2005",
+    "barcode": "4719862441055",
+    "matched_title": "黑色柳丁",
+    "source_url": "https://musicbrainz.org/release/161d7e8e-29de-4ca2-a755-dd3595650aa4"
+  },
+  "tracks": {
+    "1": {
+      "title": "黑色柳丁(Black Tangerine)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "娃娃"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "2": {
+      "title": "今天晚间新闻(Today Evening News)",
+      "composer": [],
+      "lyricist": [],
+      "arranger": []
+    },
+    "3": {
+      "title": "Dear God",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "娃娃"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "4": {
+      "title": "Angel",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "娃娃"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "5": {
+      "title": "讨厌红楼梦(Let's Fall In Love)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "娃娃"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "6": {
+      "title": "蝴蝶(Butterfly)",
+      "composer": [
+        "Brad Olynyk",
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "娃娃"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "7": {
+      "title": "宫保鸡丁(Kung Pao Chicken)",
+      "composer": [
+        "陶喆",
+        "ACDC"
+      ],
+      "lyricist": [
+        "陶喆",
+        "娃娃"
+      ],
+      "arranger": [
+        "陶喆",
+        "朱敬然"
+      ]
+    },
+    "8": {
+      "title": "Melody",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "娃娃"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "9": {
+      "title": "月亮代表谁的心(Moon Over My Heart)",
+      "composer": [
+        "陶喆",
+        "翁清溪"
+      ],
+      "lyricist": [
+        "陶喆",
+        "娃娃"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "10": {
+      "title": "二十二",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "娃娃"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "11": {
+      "title": "My Anata",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "娃娃"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "12": {
+      "title": "摇篮曲(Lullaby)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "娃娃"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "13": {
+      "title": "Katrina(Demo)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    }
+  }
+}

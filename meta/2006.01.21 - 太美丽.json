@@ -1,0 +1,157 @@
+{
+  "folder": "2006.01.21 - 太美丽",
+  "album": "太美丽",
+  "date": "2006-08-04",
+  "year": 2006,
+  "musicbrainz": {
+    "release_id": "884c31cc-3fc1-4de0-ad96-efad887f318e",
+    "release_group_id": "bacb7008-0ab6-307a-8bf7-4a509b62fbdc",
+    "artist_id": "38fe7fb3-2bde-4672-8016-2ba6f7d1808f",
+    "label": "EMI",
+    "country": "TW",
+    "catalog_number": "ED06C01",
+    "barcode": "0094637271629",
+    "matched_title": "太美麗",
+    "source_url": "https://musicbrainz.org/release/884c31cc-3fc1-4de0-ad96-efad887f318e"
+  },
+  "tracks": {
+    "1": {
+      "title": "太美丽广播电台",
+      "composer": [],
+      "lyricist": [],
+      "arranger": []
+    },
+    "2": {
+      "title": "忘不了",
+      "composer": [
+        "王福龄",
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃",
+        "陶喆",
+        "陶秦"
+      ],
+      "arranger": []
+    },
+    "3": {
+      "title": "太美丽",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃",
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "4": {
+      "title": "追",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "葛大为"
+      ],
+      "arranger": []
+    },
+    "5": {
+      "title": "那一瞬间",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": []
+    },
+    "6": {
+      "title": "Walk On",
+      "composer": [
+        "吴庆隆",
+        "陶喆"
+      ],
+      "lyricist": [
+        "葛大为",
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "7": {
+      "title": "自导自演的悲剧",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃",
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "8": {
+      "title": "祝你幸福",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃",
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "9": {
+      "title": "似曾相识",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃",
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "10": {
+      "title": "今天你要嫁给我",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃",
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "11": {
+      "title": "每一面都美",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "李焯雄"
+      ],
+      "arranger": []
+    },
+    "12": {
+      "title": "不爱",
+      "composer": [
+        "朱敬然",
+        "陈熙"
+      ],
+      "lyricist": [
+        "葛大为"
+      ],
+      "arranger": []
+    },
+    "13": {
+      "title": "Olia",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "李焯雄",
+        "陶喆"
+      ],
+      "arranger": []
+    }
+  }
+}

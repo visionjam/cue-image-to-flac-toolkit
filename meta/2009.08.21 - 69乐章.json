@@ -1,0 +1,198 @@
+{
+  "folder": "2009.08.21 - 69乐章",
+  "album": "69乐章",
+  "date": "2009-08-21",
+  "year": 2009,
+  "musicbrainz": {
+    "release_id": "7abaaf1b-031d-4a6d-a15b-c5693607653b",
+    "release_group_id": "a93f1da9-6156-493e-b256-9b0527dce692",
+    "artist_id": "38fe7fb3-2bde-4672-8016-2ba6f7d1808f",
+    "label": "金牌大風",
+    "country": "TW",
+    "catalog_number": "ED09E08",
+    "barcode": "4714127660387",
+    "matched_title": "69樂章",
+    "source_url": "https://musicbrainz.org/release/7abaaf1b-031d-4a6d-a15b-c5693607653b"
+  },
+  "tracks": {
+    "1": {
+      "title": "愿主怜悯 Kyrie Eleison",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "2": {
+      "title": "乱七∞糟 A Big Mess",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "李焯雄"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "3": {
+      "title": "暗恋 Adoration",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "娃娃"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "4": {
+      "title": "玩 PLay",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "李焯雄"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "5": {
+      "title": "火鸟功 Zero To Hero",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "吴建恒"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "6": {
+      "title": "雪豹 Surviving Leopards",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "李焯雄"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "7": {
+      "title": "关于陶喆 RE:DT",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "刘轩",
+        "娃娃"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "8": {
+      "title": "我太傻 Summer Love Triangle",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "刘轩"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "9": {
+      "title": "请继续，任性 Miss Sweetie",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "娃娃"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "10": {
+      "title": "中国姑娘 Chinese Lady",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "娃娃"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "11": {
+      "title": "谁的奥斯卡？ Whose Oscar?",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "娃娃"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "12": {
+      "title": "应征爱 Love Needed",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "李焯雄"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "13": {
+      "title": "你的歌 Your Song",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "娃娃"
+      ],
+      "arranger": [
+        "陶喆"
+      ]
+    },
+    "14": {
+      "title": "桂冠英雄 Heroes",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": [
+        "吴庆隆"
+      ]
+    }
+  }
+}

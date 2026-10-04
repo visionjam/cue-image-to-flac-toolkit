@@ -1,0 +1,157 @@
+{
+  "folder": "2005.01.21 - 太平盛世",
+  "album": "太平盛世",
+  "date": "2005-01-21",
+  "year": 2005,
+  "musicbrainz": {
+    "release_id": "09a586bd-6f45-4f8c-9923-2d20333a13cf",
+    "release_group_id": "50e835ee-3c0b-3fba-a888-5e8f5d441c34",
+    "artist_id": "38fe7fb3-2bde-4672-8016-2ba6f7d1808f",
+    "label": "EMI",
+    "country": "TW",
+    "catalog_number": "ED04C12",
+    "barcode": "0724356380523",
+    "matched_title": "太平盛世",
+    "source_url": "https://musicbrainz.org/release/09a586bd-6f45-4f8c-9923-2d20333a13cf"
+  },
+  "tracks": {
+    "1": {
+      "title": "鬼 (OVERTURE)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆",
+        "李焯雄"
+      ],
+      "arranger": []
+    },
+    "2": {
+      "title": "鬼",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "李焯雄",
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "3": {
+      "title": "CATHERINE",
+      "composer": [
+        "丁世光"
+      ],
+      "lyricist": [
+        "娃娃",
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "4": {
+      "title": "就是爱你",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": []
+    },
+    "5": {
+      "title": "孙子兵法",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "李焯雄"
+      ],
+      "arranger": []
+    },
+    "6": {
+      "title": "爱我还是他",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃",
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "7": {
+      "title": "SUSAN 说",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "李焯雄"
+      ],
+      "arranger": []
+    },
+    "8": {
+      "title": "无缘",
+      "composer": [
+        "朱敬然",
+        "陶喆"
+      ],
+      "lyricist": [
+        "李焯雄",
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "9": {
+      "title": "SULA与LAMPA的寓言",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃",
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "10": {
+      "title": "2NIGHT",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "Katrina"
+      ],
+      "arranger": []
+    },
+    "11": {
+      "title": "她的歌",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": []
+    },
+    "12": {
+      "title": "爱是个什么东西",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃",
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "13": {
+      "title": "祷告良辰歌",
+      "composer": [
+        "William B. Bradbury"
+      ],
+      "lyricist": [
+        "Traditional"
+      ],
+      "arranger": []
+    }
+  }
+}

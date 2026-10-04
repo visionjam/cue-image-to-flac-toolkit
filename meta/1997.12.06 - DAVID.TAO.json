@@ -1,0 +1,157 @@
+{
+  "folder": "1997.12.06 - DAVID.TAO",
+  "album": "David Tao",
+  "date": "1997-12-06",
+  "year": 1997,
+  "musicbrainz": {
+    "release_id": "39097cac-d8f6-4977-b703-36d6d8b25cab",
+    "release_group_id": "0266bc3c-2456-44be-99d2-c779fce923ff",
+    "artist_id": "38fe7fb3-2bde-4672-8016-2ba6f7d1808f",
+    "label": "Shock Records",
+    "country": "TW",
+    "catalog_number": "STC9701",
+    "barcode": "4713729897016",
+    "matched_title": "陶喆",
+    "source_url": "https://musicbrainz.org/release/39097cac-d8f6-4977-b703-36d6d8b25cab"
+  },
+  "tracks": {
+    "1": {
+      "title": "Airport Take Off",
+      "composer": [],
+      "lyricist": [],
+      "arranger": []
+    },
+    "2": {
+      "title": "飞机场的10:30(Airprt In 10:30)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃",
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "3": {
+      "title": "Airport Arrival",
+      "composer": [],
+      "lyricist": [],
+      "arranger": []
+    },
+    "4": {
+      "title": "爱,很简单(I Love You)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": []
+    },
+    "5": {
+      "title": "沙滩(Blue Moon)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": []
+    },
+    "6": {
+      "title": "十七岁(Our Love)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": []
+    },
+    "7": {
+      "title": "望春风(Sping Wind)",
+      "composer": [
+        "邓雨贤"
+      ],
+      "lyricist": [
+        "李临秋",
+        "娃娃"
+      ],
+      "arranger": []
+    },
+    "8": {
+      "title": "王八蛋(Bastard)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃",
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "9": {
+      "title": "是是非非(Yes No Song)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃",
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "10": {
+      "title": "流沙(Everything's Gone)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": []
+    },
+    "11": {
+      "title": "Take 6 Minus 3",
+      "composer": [],
+      "lyricist": [],
+      "arranger": []
+    },
+    "12": {
+      "title": "心乱飞(Do I Do I)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": []
+    },
+    "13": {
+      "title": "再见以前说再见(Say Goodbye)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": []
+    },
+    "14": {
+      "title": "沙滩·钢琴版(Siute Blue Moon)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": []
+    },
+    "15": {
+      "title": "Answering Machine",
+      "composer": [],
+      "lyricist": [],
+      "arranger": []
+    }
+  }
+}

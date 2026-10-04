@@ -1,0 +1,154 @@
+{
+  "folder": "2013.06.11 - 再见你好吗",
+  "album": "再见你好吗",
+  "date": "2013-06-11",
+  "year": 2013,
+  "musicbrainz": {
+    "release_id": "1ae5b83c-8b57-4ece-b16b-c6fd6b46d260",
+    "release_group_id": "ebe6a6ac-2100-4cc7-81b4-a07e8d923f1b",
+    "artist_id": "38fe7fb3-2bde-4672-8016-2ba6f7d1808f",
+    "label": "Seed Music",
+    "country": "TW",
+    "catalog_number": "GR13C0001",
+    "barcode": "4711448510025",
+    "matched_title": "再見你好嗎",
+    "source_url": "https://musicbrainz.org/release/1ae5b83c-8b57-4ece-b16b-c6fd6b46d260"
+  },
+  "tracks": {
+    "1": {
+      "title": "Hello",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [],
+      "arranger": []
+    },
+    "2": {
+      "title": "勿忘我",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "周启儿"
+      ],
+      "arranger": []
+    },
+    "3": {
+      "title": "一念之间",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": []
+    },
+    "4": {
+      "title": "逗阵兄弟",
+      "composer": [
+        "陶喆",
+        "卢广仲"
+      ],
+      "lyricist": [
+        "陶喆",
+        "卢广仲",
+        "罗小宾",
+        "周启儿"
+      ],
+      "arranger": []
+    },
+    "5": {
+      "title": "真爱等一下",
+      "composer": [
+        "陶喆",
+        "蔡健雅"
+      ],
+      "lyricist": [
+        "葛大为"
+      ],
+      "arranger": []
+    },
+    "6": {
+      "title": "好好说再见",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "黄婷"
+      ],
+      "arranger": []
+    },
+    "7": {
+      "title": "上爱唱的歌",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "武雄"
+      ],
+      "arranger": []
+    },
+    "8": {
+      "title": "那个女孩",
+      "composer": [
+        "陶喆",
+        "卢广仲"
+      ],
+      "lyricist": [
+        "周启儿"
+      ],
+      "arranger": []
+    },
+    "9": {
+      "title": "The Promise",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "林夕"
+      ],
+      "arranger": []
+    },
+    "10": {
+      "title": "因为爱",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "周启儿"
+      ],
+      "arranger": []
+    },
+    "11": {
+      "title": "小小的你",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "周启儿"
+      ],
+      "arranger": []
+    },
+    "12": {
+      "title": "All for Joy",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "刘轩"
+      ],
+      "arranger": []
+    },
+    "13": {
+      "title": "逗阵兄弟",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "卢广仲",
+        "周启儿"
+      ],
+      "arranger": []
+    }
+  }
+}

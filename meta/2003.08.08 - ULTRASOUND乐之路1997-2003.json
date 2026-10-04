@@ -1,0 +1,143 @@
+{
+  "folder": "2003.08.08 - ULTRASOUND乐之路1997-2003",
+  "album": "ULTRASOUND乐之路1997-2003",
+  "date": "2003-08-08",
+  "year": 2003,
+  "musicbrainz": {
+    "release_id": "2f27879c-770d-49de-847e-8c87b48dc26f",
+    "release_group_id": "4ad72c6e-0909-3d54-a5ba-5f0309305d43",
+    "artist_id": "38fe7fb3-2bde-4672-8016-2ba6f7d1808f",
+    "label": "Shock Records",
+    "country": "TW",
+    "catalog_number": "ED0302",
+    "barcode": "0724359333823",
+    "matched_title": "Ultrasound 1997-2003 樂之路",
+    "source_url": "https://musicbrainz.org/release/2f27879c-770d-49de-847e-8c87b48dc26f"
+  },
+  "tracks": {
+    "1": {
+      "title": "今天没回家(shanghaied)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": []
+    },
+    "2": {
+      "title": "我喜欢(I Like It)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": []
+    },
+    "3": {
+      "title": "寂寞的季节(Season Of Loneliness)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": []
+    },
+    "4": {
+      "title": "Run Away",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃",
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "5": {
+      "title": "天天(Close To You)Revised 2003 Version",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": [
+        "吴庆隆"
+      ]
+    },
+    "6": {
+      "title": "我喜欢(I Like It)Ballad Version",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": []
+    },
+    "7": {
+      "title": "沙滩(Blue Moon)Guitar Version",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": []
+    },
+    "8": {
+      "title": "飞机场的10:30(Airport In 10:30)Driginal Demo",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [],
+      "arranger": []
+    },
+    "9": {
+      "title": "黑色柳丁(Black Tangerine)Driginal Voice Recorder Ideas)",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [],
+      "arranger": []
+    },
+    "10": {
+      "title": "普通朋友(Regular Friends)Rehearsal With Bruce Artson",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "娃娃",
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "11": {
+      "title": "沙滩(Blue Moon)Acappella Demo Version",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [],
+      "arranger": []
+    },
+    "12": {
+      "title": "爱,很简单(I Love You)Driginal 1993 English Demo",
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆"
+      ],
+      "arranger": []
+    },
+    "13": {
+      "title": "心乱飞(Acappella Demo)",
+      "composer": [],
+      "lyricist": [],
+      "arranger": []
+    }
+  }
+}
