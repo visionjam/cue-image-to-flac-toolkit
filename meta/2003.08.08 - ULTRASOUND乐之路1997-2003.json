@@ -93,7 +93,9 @@
       "composer": [
         "陶喆"
       ],
-      "lyricist": [],
+      "lyricist": [
+        "陶喆"
+      ],
       "arranger": []
     },
     "9": {
@@ -101,7 +103,9 @@
       "composer": [
         "陶喆"
       ],
-      "lyricist": [],
+      "lyricist": [
+        "陶喆"
+      ],
       "arranger": []
     },
     "10": {
@@ -120,7 +124,9 @@
       "composer": [
         "陶喆"
       ],
-      "lyricist": [],
+      "lyricist": [
+        "陶喆"
+      ],
       "arranger": []
     },
     "12": {
@@ -135,8 +141,12 @@
     },
     "13": {
       "title": "心乱飞(Acappella Demo)",
-      "composer": [],
-      "lyricist": [],
+      "composer": [
+        "陶喆"
+      ],
+      "lyricist": [
+        "陶喆"
+      ],
       "arranger": []
     }
   }
