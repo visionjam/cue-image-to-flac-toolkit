@@ -1931,5 +1931,53 @@ Co-Authored-By: Claude Code <noreply@anthropic.com>"
 T1 环境 → T2 cuelib → T3 audio → T4 convert → T5 verify(含 manifest)
 T2 → T6 check_meta
 T7 mb_lookup → T8 meta 核对[CHECKPOINT] 
-T4+T5+T8 → T9 试跑[CHECKPOINT] → T10 批量 → T11 终验+收尾
+T4+T5+T8 → T9 试跑[CHECKPOINT] → T10 批量 → T11 终验+收尾 → T12 推 GitHub[CHECKPOINT]
 ```
+
+---
+
+### Task 12: 推送到 GitHub（用户追加需求，2026-10-04）
+
+**Files:**
+- Create: `E:\音乐库-工作区\README.md`（项目说明）
+- 仓库操作：添加 remote、推送
+
+**前置**：T11 全部通过（校验/清单/终报齐备）。
+
+- [ ] **Step 1: 内容边界核对**
+
+```bash
+cd "E:/音乐库-工作区" && git ls-files
+```
+
+Expected: 仅 scripts/ tests/ docs/ meta/ reports/ 与 .gitignore/README；**无音频、无日志、无 temp**（均已 gitignore）。如发现异常文件，停下报告。
+
+- [ ] **Step 2: 验证 GitHub 通路（SSH 优先）**
+
+```bash
+ssh -T git@github.com 2>&1 | head -1
+```
+
+Expected: `Hi <用户名>! You've successfully authenticated...`。失败则回退 HTTPS（首次 push 由 Windows 凭据管理器弹窗完成登录）。
+
+- [ ] **Step 3: 写 README.md 并提交**
+
+README 内容：项目一句话简介、依赖（Python ≥3.10 / ffmpeg / mutagen / pytest）、用法（convert.py / verify.py / check_meta.py 的 CLI 示例）、目录结构、无损校验说明（逐轨 PCM MD5）。提交信息带 Co-Authored-By 尾注。
+
+- [ ] **Step 4: 用户创建远程仓库**
+
+用户决定**仓库名**与**公开/私有**（建议先私有）。用户在 GitHub 网页建空仓库（**不要**勾选初始化 README/.gitignore）；或装 `gh`（`winget install GitHub.cli` + `gh auth login`）后代建。
+
+- [ ] **Step 5: 添加 remote 并推送**
+
+```bash
+cd "E:/音乐库-工作区" && git remote add origin <用户提供的URL> && git push -u origin master
+```
+
+注意：当前默认分支为 `master`；如用户希望用 `main`，推送前先 `git branch -m master main`。
+
+- [ ] **Step 6: 推送后核对**
+
+GitHub 页面文件列表与 `git ls-files` 数量一致；README 正常渲染。
+
+**CHECKPOINT：推送前必须获得用户对「仓库名 + 公开/私有 + 分支名」的明确确认。**
