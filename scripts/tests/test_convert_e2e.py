@@ -72,7 +72,7 @@ def test_convert_writes_tracks_tags_cover(synthetic_source):
     assert f["DATE"][0] == "2005-01-21"
     assert len(f.pictures) == 1
 
-    # 采样级时长：154350/154350/132300 帧
+    # 采样级时长：149940/149940/141120 帧
     import wave
     from audio import probe_audio
     assert abs(float(probe_audio(outdir / "01 - 第一首.flac")["duration"]) - 3.4) < 0.01
@@ -100,3 +100,18 @@ def test_convert_merges_meta_json(synthetic_source):
     assert f2["LYRICIST"][0] == "娃娃"
     f1 = FLAC(str(outdir / "01 - 第一首.flac"))
     assert "COMPOSER" not in f1
+
+
+def test_convert_wraps_non_decode_failures_as_album_error(synthetic_source, monkeypatch):
+    tmp_path = synthetic_source
+    from audio import AudioError
+
+    # convert.py 里是 `from audio import ... encode_flac ...`，实际调用的是 convert
+    # 模块内的绑定，所以必须 patch convert.encode_flac（patch audio.encode_flac 影响不到它）。
+    def boom(*args, **kwargs):
+        raise AudioError("encode exploded")
+
+    monkeypatch.setattr(convert, "encode_flac", boom)
+    with pytest.raises(convert.AlbumError) as ei:
+        run_convert(tmp_path)
+    assert isinstance(ei.value.__cause__, AudioError)

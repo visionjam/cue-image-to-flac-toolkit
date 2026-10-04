@@ -104,8 +104,8 @@ def _check_disk_space(output_root: Path, need_bytes: int) -> None:
         raise AlbumError(f"not enough disk space: need ~{need_bytes/1e9:.1f}GB, free {free/1e9:.1f}GB")
 
 
-def convert_album(folder_name: str, *, source_root: Path, output_root: Path,
-                  work_root: Path, meta_dir: Path) -> dict:
+def _convert_album(folder_name: str, *, source_root: Path, output_root: Path,
+                   work_root: Path, meta_dir: Path) -> dict:
     t0 = time.time()
     src_dir = source_root / folder_name
     if not src_dir.is_dir():
@@ -192,6 +192,18 @@ def convert_album(folder_name: str, *, source_root: Path, output_root: Path,
     shutil.rmtree(tmp_dir)
     log.info("[%s] done: %d tracks -> %s", folder_name, len(cue.tracks), final_dir)
     return result
+
+
+def convert_album(folder_name: str, *, source_root: Path, output_root: Path,
+                  work_root: Path, meta_dir: Path) -> dict:
+    """公开入口：把内部实现的任何失败统一封装为 AlbumError（计划接口契约）。"""
+    try:
+        return _convert_album(folder_name, source_root=source_root, output_root=output_root,
+                              work_root=work_root, meta_dir=meta_dir)
+    except AlbumError:
+        raise                                    # 已符合契约，原样透传（保留原始信息）
+    except Exception as e:                       # noqa: BLE001 - 统一封装为 AlbumError
+        raise AlbumError(str(e)) from e
 
 
 def main(argv=None) -> int:
