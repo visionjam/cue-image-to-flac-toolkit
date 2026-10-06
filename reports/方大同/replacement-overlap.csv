@@ -1,0 +1,28 @@
+﻿file,target,lag_samples,verdict,exact_pct,le1_pct,max_abs_diff,mean_abs_diff,n,note
+chengyue/1.01. Singalongsong.flac,2008 - 橙月 Orange Moon[flac]/01.Singalongsong.flac,1310,SAME_ENCODE,100.0,100.0,0,0.0,7162824,local_partial=True (Error : flac decoder lost sync.)
+chengyue/1.04. 黑白.flac,2008 - 橙月 Orange Moon[flac]/04.黑白.flac,1215,SAME_ENCODE,100.0,100.0,0,0.0,8248100,local_partial=True (Error : flac decoder lost sync.)
+chengyue/1.06. 黑洞裡.flac,2008 - 橙月 Orange Moon[flac]/06.黑洞里.flac,1149,SAME_ENCODE,100.0,100.0,0,0.0,7596932,local_partial=True (Error : flac decoder lost sync.)
+chengyue/1.08. 每個人都會.flac,2008 - 橙月 Orange Moon[flac]/08.每个人都会.flac,1126,SAME_ENCODE,100.0,100.0,0,0.0,6294602,local_partial=True (Error : flac decoder lost sync.)
+chengyue/1.09. 100種表情.flac,2008 - 橙月 Orange Moon[flac]/09.100种表情.flac,1106,SAME_ENCODE,100.0,100.0,0,0.0,8031044,local_partial=True (Error : flac decoder lost sync.)
+chengyue/1.10. 愛我吧.flac,2008 - 橙月 Orange Moon[flac]/10.爱我吧.flac,1102,SAME_ENCODE,100.0,100.0,0,0.0,10201598,local_partial=True (Error : flac decoder lost sync.)
+chengyue/11 為妳寫的歌 (Singalongsong 中文版).flac,2008 - 橙月 Orange Moon[flac]/11.为你写的歌.flac,-265,DIFFERENT,58.1112,79.7109,128,3.447,7162824,local_partial=True (Error : flac decoder lost sync.)
+chengyue/1234567-方大同.flac,2008 - 橙月 Orange Moon[flac]/03.1234567.flac,-57,DIFFERENT,0.8507,2.1646,507,54.328,8031044,local_partial=True (Error : flac decoder lost sync.)
+gold/12. All Night (feat. Diana Wang).flac,"2016-JTW 西游记（GOLD）[flac]/方大同,王诗安 - All Night.flac",0,SAME_ENCODE,100.0,100.0,0,0.0,7596932,local_partial=True (Error : flac decoder lost sync.)
+gold/13. Right Girl.flac,2016-JTW 西游记（GOLD）[flac]/方大同 - Right Girl.flac,0,SAME_ENCODE,100.0,100.0,0,0.0,7379880,local_partial=True (Error : flac decoder lost sync.)
+gold/14. Run From Your Love (feat. Fifi Rong).flac,"2016-JTW 西游记（GOLD）[flac]/方大同,FiFi Rong - Run From Your Love.flac",0,SAME_ENCODE,100.0,100.0,0,0.0,9984542,local_partial=True (Error : flac decoder lost sync.)
+gold/15. 烦.flac,2016-JTW 西游记（GOLD）[flac]/方大同 - 烦.flac,0,SAME_ENCODE,100.0,100.0,0,0.0,10201598,local_partial=True (Error : flac decoder lost sync.)
+gold/16. Once.flac,2016-JTW 西游记（GOLD）[flac]/方大同 - Once.flac,0,SAME_ENCODE,100.0,100.0,0,0.0,6077546,local_partial=True (Error : flac decoder lost sync.)
+gold/17. 无所谓 (feat. Jane Zhang).flac,"2016-JTW 西游记（GOLD）[flac]/方大同,张靓颖 - 无所谓.flac",0,SAME_ENCODE,100.0,100.0,0,0.0,9550432,local_partial=True (Error : flac decoder lost sync.)
+gold/18. 黑夜.flac,2016-JTW 西游记（GOLD）[flac]/方大同 - 黑夜.flac,0,SAME_ENCODE,100.0,100.0,0,0.0,11286874,local_partial=True (Error : flac decoder lost sync.)
+gold/19. 很不低调.flac,2016-JTW 西游记（GOLD）[flac]/方大同 - 很不低调.flac,0,SAME_ENCODE,100.0,100.0,0,0.0,9550432,local_partial=True (Error : flac decoder lost sync.)
+gold/20. 放不过自己.flac,2016-JTW 西游记（GOLD）[flac]/方大同 - 放不过自己.flac,0,SAME_ENCODE,100.0,100.0,0,0.0,10201598,local_partial=True (Error : flac decoder lost sync.)
+gold/21. As I Do.flac,2016-JTW 西游记（GOLD）[flac]/方大同 - As I Do.flac,0,SAME_ENCODE,100.0,100.0,0,0.0,9116320,local_partial=True (Error : flac decoder lost sync.)
+concert/03. Khalil Fong - Black And White [Timeless Live 2009].flac,,,PROFILE,,,,,,rms=-13.79dB peak=-0.2dB dur=245.03s
+concert/06. Khalil Fong - Man And Woman [Timeless Live 2009].flac,,,PROFILE,,,,,,rms=-13.66dB peak=-0.2dB dur=209.48s
+concert/07. Khalil Fong - Sweety Pie [Timeless Live 2009].flac,,,PROFILE,,,,,,rms=-12.33dB peak=-0.2dB dur=275.31s
+concert/10. Khalil Fong - La Bamba [Timeless Live 2009].flac,,,PROFILE,,,,,,rms=-16.56dB peak=-0.2dB dur=238.19s
+concert/102. Khalil Fong - Bad [Timeless Live 2009].flac,,,PROFILE,,,,,,rms=-13.45dB peak=-0.2dB dur=277.41s
+concert/103. Khalil Fong - 1234567 [Timeless Live 2009].flac,,,PROFILE,,,,,,rms=-12.1dB peak=-0.2dB dur=239.56s
+concert/112. Khalil Fong - Sound From The North Side [Timeless Live 2009].flac,,,PROFILE,,,,,,rms=-14.85dB peak=-0.2dB dur=288.28s
+concert/115. Khalil Fong - Georgia on my mind [Timeless Live 2009].flac,,,PROFILE,,,,,,rms=-18.15dB peak=-0.2dB dur=320.84s
+concert/12. Khalil Fong - Singalongsong [Timeless Live 2009].flac,,,PROFILE,,,,,,rms=-15.08dB peak=-0.2dB dur=195.39s

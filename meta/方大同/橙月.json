@@ -1,0 +1,192 @@
+{
+  "folder": "2008 - 橙月 Orange Moon[flac]",
+  "album": "橙月",
+  "date": "2008-12-19",
+  "year": 2008,
+  "genre": [
+    "国语流行",
+    "节奏蓝调"
+  ],
+  "musicbrainz": {
+    "release_id": "e6e84a0b-fd40-4139-b446-47224a105767",
+    "release_group_id": "d2809a5e-7f44-43ca-815a-2b0fa4d0dbdf",
+    "artist_id": "081f97c3-2ae9-4698-aa43-88ccb58af4d5",
+    "label": "Warner Music Hong Kong",
+    "country": "HK",
+    "catalog_number": null,
+    "barcode": null,
+    "matched_title": "橙月",
+    "source_url": "https://musicbrainz.org/release/e6e84a0b-fd40-4139-b446-47224a105767"
+  },
+  "tracks": {
+    "1": {
+      "title": "Singalongsong",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "53d5926e-fc37-4758-9c48-04beb7dde2d9",
+      "musicbrainz_releasetrack_id": "e06af045-753d-372d-9c4d-1525963140ae"
+    },
+    "2": {
+      "title": "小小虫",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "农夫"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "993cf585-446c-4c6e-8c44-e882ef5933b1",
+      "musicbrainz_releasetrack_id": "df34b949-4a6d-3909-bc0b-0b21d90f15c3"
+    },
+    "3": {
+      "title": "1234567",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "葛大为"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "acd3eb38-90d9-439e-ba22-7e2976e5c376",
+      "musicbrainz_releasetrack_id": "77dcc039-bf50-34bc-bc26-1a5ae123287f"
+    },
+    "4": {
+      "title": "黑白",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "0cac253a-756f-4750-92f6-02fbadf1e334",
+      "musicbrainz_releasetrack_id": "82259d85-f39a-3fad-9983-e96296cafdb1"
+    },
+    "5": {
+      "title": "如果爱",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同",
+        "徐若瑄"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "52229a8b-c91c-4f92-a44e-8ae1b4e31e6d",
+      "musicbrainz_releasetrack_id": "a7f1aa5c-ac1a-301e-82ee-e13190b0c94a"
+    },
+    "6": {
+      "title": "黑洞里",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "4519e13d-55bd-4b18-aacc-e244293ae254",
+      "musicbrainz_releasetrack_id": "7f6bcef9-2801-3d0f-91db-1b685b18c9d7"
+    },
+    "7": {
+      "title": "三人游",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "崔惟楷"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "4f26ef16-af62-4c03-b5d0-e42bdd5af08e",
+      "musicbrainz_releasetrack_id": "c81ea6e7-77d7-3d0c-bcd0-edb7e446597d"
+    },
+    "8": {
+      "title": "每个人都会",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "林夕"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "f8c05047-ff2a-42f1-bd97-a97c87108fe2",
+      "musicbrainz_releasetrack_id": "9d457882-ceeb-3a2c-b394-c3b754c3f398"
+    },
+    "9": {
+      "title": "100种表情",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "崔惟楷"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "26b57b4a-a7d3-4e9b-aa94-4372aee5d3f6",
+      "musicbrainz_releasetrack_id": "1cb1b329-702e-3106-b5a9-6e20fc36ee8f"
+    },
+    "10": {
+      "title": "爱我吧",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "1f2b78f5-be7d-4f3f-a905-b5d9066278c3",
+      "musicbrainz_releasetrack_id": "9284a10d-2eaf-3f9e-a965-2b944384f3ee"
+    },
+    "11": {
+      "title": "为你写的歌",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "马嵩惟"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "5007c1ec-7c61-4074-9150-70990c2cd557",
+      "musicbrainz_releasetrack_id": "970e980c-44e2-39ee-9a23-aff8b2094654"
+    },
+    "12": {
+      "title": "Orange Moon",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "45f7a571-e325-45e9-a574-c132d07a621a",
+      "musicbrainz_releasetrack_id": "72b03d89-d984-3515-9ed4-fcf19c9133d4"
+    }
+  }
+}

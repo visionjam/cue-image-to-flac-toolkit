@@ -1,0 +1,192 @@
+{
+  "folder": "2011 - 15",
+  "album": "15",
+  "date": "2011-07-13",
+  "year": 2011,
+  "genre": [
+    "国语流行",
+    "蓝调摇滚"
+  ],
+  "musicbrainz": {
+    "release_id": "9b9c3101-9e98-4f80-b4c9-fd7cb87fd390",
+    "release_group_id": "4480f179-9852-4149-a829-abc6c9d2274c",
+    "artist_id": "081f97c3-2ae9-4698-aa43-88ccb58af4d5",
+    "label": null,
+    "country": "US",
+    "catalog_number": null,
+    "barcode": null,
+    "matched_title": "15",
+    "source_url": "https://musicbrainz.org/release/9b9c3101-9e98-4f80-b4c9-fd7cb87fd390"
+  },
+  "tracks": {
+    "1": {
+      "title": "Gotta Make A Change",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "3bf1c3d4-8b50-4b50-8116-88b67f71a950",
+      "musicbrainz_releasetrack_id": "afe37f9b-4ec8-3c7c-ae65-740ad8da1a9d"
+    },
+    "2": {
+      "title": "昙花",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "多多",
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "f7545727-d832-449f-9fd1-a04fc8e8ef47",
+      "musicbrainz_releasetrack_id": "718a3b0c-b25d-352b-974c-caf49feb876f"
+    },
+    "3": {
+      "title": "张永成 (feat. Ghost Style)",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同",
+        "Ghost Style"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "c4cfa368-a6db-44fc-a784-3725eac0750d",
+      "musicbrainz_releasetrack_id": "79c04971-2bce-3cdf-b3f9-247a5193ba27"
+    },
+    "4": {
+      "title": "因为你",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "7fb41f80-986b-4266-8093-1880c36fd692",
+      "musicbrainz_releasetrack_id": "cf46ecb8-ec5e-3a99-b1df-e5e902eb3644"
+    },
+    "5": {
+      "title": "情胜策略",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "农夫"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "0d42dff5-a3df-4fe9-b80e-45054fa47792",
+      "musicbrainz_releasetrack_id": "d43baf20-f086-3cde-ab4e-4185f40eedb2"
+    },
+    "6": {
+      "title": "无菇朋友",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "103a8a48-232e-4b97-8103-0e880c91dd9b",
+      "musicbrainz_releasetrack_id": "26e63a01-0f9c-3694-ae56-7c27a90a229a"
+    },
+    "7": {
+      "title": "自以为 (feat.徐佳莹)",
+      "composer": [
+        "方大同",
+        "Edward Chan"
+      ],
+      "lyricist": [
+        "崔惟楷"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "8c7cb376-b702-4448-8f3c-ea2d7565e34d",
+      "musicbrainz_releasetrack_id": "8d8339be-2c9c-3cf2-ade0-393ccfe29e54"
+    },
+    "8": {
+      "title": "二人游",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "5488b110-aadd-4bce-acdb-da5a67ba079b",
+      "musicbrainz_releasetrack_id": "0787e5c0-463a-3d2c-8385-0e284cb1e28a"
+    },
+    "9": {
+      "title": "Over",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "崔惟楷"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "6807189f-2c0c-4dd0-816e-113aaec12b87",
+      "musicbrainz_releasetrack_id": "020f74c1-0905-3d20-8c38-06f001265e00"
+    },
+    "10": {
+      "title": "Take Me",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "5fd08c9f-ad9a-4edd-9981-59b622cebd0b",
+      "musicbrainz_releasetrack_id": "fa6622c4-2628-3a11-b794-99d42b415c08"
+    },
+    "11": {
+      "title": "好不容易",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "70ad3a69-6378-40ce-9455-a1813e93a4cf",
+      "musicbrainz_releasetrack_id": "5bcced06-9094-37fb-b441-af368188667e"
+    },
+    "12": {
+      "title": "Over Reprise",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "e7b7db54-c747-4758-8d5e-491bb8cfe454",
+      "musicbrainz_releasetrack_id": "0d9c5a82-7c79-4a49-bc6a-d61996d0f8b7"
+    }
+  }
+}

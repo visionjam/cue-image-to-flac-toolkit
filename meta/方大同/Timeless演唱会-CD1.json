@@ -1,0 +1,235 @@
+{
+  "folder": "Timeless演唱会 2CD/CD1",
+  "album": "Timeless 演唱会",
+  "disc": 1,
+  "date": "2009-11-27",
+  "year": 2009,
+  "genre": [
+    "国语流行",
+    "英语流行",
+    "现场"
+  ],
+  "discnumber": 1,
+  "disctotal": 2,
+  "tracktotal": 17,
+  "musicbrainz": {
+    "release_id": "37797095-922b-46eb-8ca9-10c678872f51",
+    "release_group_id": "c1f67e87-1692-4518-8121-036371c6cb38",
+    "artist_id": "081f97c3-2ae9-4698-aa43-88ccb58af4d5",
+    "label": "Warner Music Hong Kong",
+    "country": null,
+    "catalog_number": null,
+    "barcode": null,
+    "matched_title": "Timeless Live in Hong Kong 2009",
+    "source_url": "https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51"
+  },
+  "tracks": {
+    "1": {
+      "title": "Introlude",
+      "composer": [
+        "Edward Chan"
+      ],
+      "lyricist": [],
+      "arranger": [],
+      "musicbrainz_recording_id": "3a4ebc7e-ab0a-4025-b468-0311c642b165",
+      "musicbrainz_releasetrack_id": "119ae458-193e-4218-bc6e-0163a869a84c"
+    },
+    "2": {
+      "title": "Bad",
+      "composer": [
+        "Michael Jackson"
+      ],
+      "lyricist": [
+        "Michael Jackson"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "fae34540-9cce-4f23-9788-08f2a5f6f441",
+      "musicbrainz_releasetrack_id": "8221fd49-2c73-4b61-b0ec-307d522df1f7"
+    },
+    "3": {
+      "title": "1234567",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "葛大为"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "6b3ba753-d0b3-417e-8359-5b7e49f26577",
+      "musicbrainz_releasetrack_id": "b821b368-1768-45fe-b772-e3e7ca91c5a2"
+    },
+    "4": {
+      "title": "如果爱",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同",
+        "徐若瑄"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "1f78d60e-dd35-42e3-8cf7-7ad4e547c1f9",
+      "musicbrainz_releasetrack_id": "64995b4a-3da7-4699-a1b5-feee410906d3"
+    },
+    "5": {
+      "title": "记得",
+      "composer": [
+        "林俊杰"
+      ],
+      "lyricist": [
+        "易家扬"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "34728364-2acf-4e29-ac69-5639a4c04e55",
+      "musicbrainz_releasetrack_id": "776f6076-bc71-4869-a958-dbabda9428d5"
+    },
+    "6": {
+      "title": "Nothing's Gonna Change My Love For You",
+      "composer": [
+        "Michael Masser",
+        "Gerald Goffin"
+      ],
+      "lyricist": [
+        "Michael Masser",
+        "Gerald Goffin"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "38afefcd-6d81-4422-8430-5a20e603f009",
+      "musicbrainz_releasetrack_id": "42742f62-d695-4235-b30f-16eab2ff6ec9"
+    },
+    "7": {
+      "title": "春风吹",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "a5a0721c-e357-4bf5-9238-fedf31e750be",
+      "musicbrainz_releasetrack_id": "9901c30f-9349-43f9-821e-e43ca0bdb4b6"
+    },
+    "8": {
+      "title": "Billie Jean",
+      "composer": [
+        "Michael Jackson"
+      ],
+      "lyricist": [
+        "Michael Jackson"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "697c8a86-85c6-4c0c-97cc-fd7bebd0eef6",
+      "musicbrainz_releasetrack_id": "599914d9-1b85-4ef4-9ef2-2481b1df4f76"
+    },
+    "9": {
+      "title": "Who Is It",
+      "composer": [
+        "Michael Jackson"
+      ],
+      "lyricist": [
+        "Michael Jackson"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "ffe526cb-82f5-46d5-bce7-c0f878919ae1",
+      "musicbrainz_releasetrack_id": "d028e006-be51-4c8c-9c7f-97567de02fae"
+    },
+    "10": {
+      "title": "歌手与模特儿",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "林夕"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "c80ff2e7-7ac1-4398-b5b2-a8bd835d89a9",
+      "musicbrainz_releasetrack_id": "27359545-b7f9-4c97-93b2-cae32eecb820"
+    },
+    "11": {
+      "title": "每个人都会",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "林夕"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "35dd31ae-feb9-45ae-ad85-d8028131681c",
+      "musicbrainz_releasetrack_id": "5d27f977-3182-41a2-8f58-a0e563cc06dc"
+    },
+    "12": {
+      "title": "南音",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "林夕"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "fcdf3ebe-33c0-4705-ba53-0ddf092ac8a4",
+      "musicbrainz_releasetrack_id": "09ea9bd3-f691-454c-9803-6c675f461886"
+    },
+    "13": {
+      "title": "Love Song",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "6c5e261d-005e-43f0-89b6-1e9d2e6a6d43",
+      "musicbrainz_releasetrack_id": "c8c80aa7-fad9-4b9b-af89-d6ab3497a1dc"
+    },
+    "14": {
+      "title": "红豆",
+      "composer": [
+        "柳重言"
+      ],
+      "lyricist": [
+        "林夕"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "ab1905a5-4b75-4722-9fa6-4a4e264466b3",
+      "musicbrainz_releasetrack_id": "6a604f57-377d-4e3d-84c2-4cd909e6bfc4"
+    },
+    "15": {
+      "title": "Georgia On My Mind",
+      "composer": [
+        "Hoagy Carmichael",
+        "Stuart Gorrell"
+      ],
+      "lyricist": [
+        "Hoagy Carmichael",
+        "Stuart Gorrell"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "287fa3a9-7451-475e-959a-550b2fdb511b",
+      "musicbrainz_releasetrack_id": "35809371-98e9-453f-ad56-525ef71bd9d1"
+    },
+    "16": {
+      "title": "Moon River",
+      "composer": [
+        "Henry Mancini"
+      ],
+      "lyricist": [
+        "Johnny Mercer"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "efd1c7f1-763e-4285-89d1-7e074352a234",
+      "musicbrainz_releasetrack_id": "2d20fd54-62a5-4666-95c1-3442a360098b"
+    },
+    "17": {
+      "title": "Wonderful Tonight",
+      "composer": [
+        "Eric Clapton"
+      ],
+      "lyricist": [
+        "Eric Clapton"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "2c303641-9f41-45fa-9ab8-3754e1b75134",
+      "musicbrainz_releasetrack_id": "e272143c-7b3f-467e-a144-0c41603f9329"
+    }
+  }
+}

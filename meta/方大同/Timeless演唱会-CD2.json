@@ -1,0 +1,195 @@
+{
+  "folder": "Timeless演唱会 2CD/CD2",
+  "album": "Timeless 演唱会",
+  "disc": 2,
+  "date": "2009-11-27",
+  "year": 2009,
+  "genre": [
+    "国语流行",
+    "英语流行",
+    "现场"
+  ],
+  "discnumber": 2,
+  "disctotal": 2,
+  "tracktotal": 14,
+  "musicbrainz": {
+    "release_id": "37797095-922b-46eb-8ca9-10c678872f51",
+    "release_group_id": "c1f67e87-1692-4518-8121-036371c6cb38",
+    "artist_id": "081f97c3-2ae9-4698-aa43-88ccb58af4d5",
+    "label": "Warner Music Hong Kong",
+    "country": null,
+    "catalog_number": null,
+    "barcode": null,
+    "matched_title": "Timeless Live in Hong Kong 2009",
+    "source_url": "https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51"
+  },
+  "tracks": {
+    "1": {
+      "title": "三人游",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "崔惟楷"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "6af95077-85d3-47b9-b4f5-7e96146b918e",
+      "musicbrainz_releasetrack_id": "6eee2173-411b-42e8-bc6d-45f0cf5eedc0"
+    },
+    "2": {
+      "title": "爱我吧",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "985df0ee-4804-4df5-8fc9-6293c2c6934e",
+      "musicbrainz_releasetrack_id": "f2c34dfe-4911-481f-b898-23653c4f7b97"
+    },
+    "3": {
+      "title": "黑白",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "8b11a38f-a319-4b77-8b80-73b02939ff05",
+      "musicbrainz_releasetrack_id": "afa768c5-5abd-4753-a49d-119e94f49608"
+    },
+    "4": {
+      "title": "Let's Stay Together",
+      "composer": [
+        "Al Green",
+        "Al Jackson, Jr.",
+        "Willie Mitchell"
+      ],
+      "lyricist": [
+        "Al Green",
+        "Al Jackson, Jr.",
+        "Willie Mitchell"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "da36e050-ae5d-499d-8815-eb0703272338",
+      "musicbrainz_releasetrack_id": "ca10176f-c691-43db-ad7c-d973031d3028"
+    },
+    "5": {
+      "title": "公园",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "67704032-b862-41ad-85cf-3fa9deabe10e",
+      "musicbrainz_releasetrack_id": "875d5ed1-e697-4f28-a8a5-36efa962d3ec"
+    },
+    "6": {
+      "title": "拖男带女",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同",
+        "梁茹岚"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "bad6f642-be81-4aa3-baf7-685d386a1c20",
+      "musicbrainz_releasetrack_id": "efc99512-4606-4e08-8dac-1eebef45bd0b"
+    },
+    "7": {
+      "title": "简单最浪漫",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "农夫"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "6531ca83-824e-408f-a499-8f4e1b5ce60f",
+      "musicbrainz_releasetrack_id": "8822dab7-f59b-4b9f-b488-3624803868d7"
+    },
+    "8": {
+      "title": "未来",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "农夫"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "39373caf-ef3e-4fdc-bdd4-0660be255fe7",
+      "musicbrainz_releasetrack_id": "4c05e3be-2016-4ad7-9627-c8c05c5ff08f"
+    },
+    "9": {
+      "title": "Free Jam",
+      "composer": [],
+      "lyricist": [],
+      "arranger": [],
+      "musicbrainz_recording_id": "1b679b4a-aaec-4c8b-b6a5-930cdf34e1b1",
+      "musicbrainz_releasetrack_id": "bccd7ad6-fa9a-4b19-8db3-e82287b54aef"
+    },
+    "10": {
+      "title": "La Bamba",
+      "composer": [
+        "Ritchie Valens"
+      ],
+      "lyricist": [
+        "Ritchie Valens"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "9b20c06a-bd76-452c-9307-e496b7642e6d",
+      "musicbrainz_releasetrack_id": "f71136aa-a85f-4268-acf2-d276551f41d3"
+    },
+    "11": {
+      "title": "You Are the Sunshine of My Life",
+      "composer": [
+        "Stevie Wonder"
+      ],
+      "lyricist": [
+        "Stevie Wonder"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "7a764ca1-d598-4dd4-a461-7e236c728c6e",
+      "musicbrainz_releasetrack_id": "a9c088d6-48f8-47c5-96e8-df260b76a9c1"
+    },
+    "12": {
+      "title": "Singalongsong",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "745f1e49-9ee3-4941-a509-bf7f36252e78",
+      "musicbrainz_releasetrack_id": "e64949d9-fba7-4249-97b0-254a0dae1b0b"
+    },
+    "13": {
+      "title": "爱爱爱",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "f87582e6-14d2-43a8-81aa-11882aad979e",
+      "musicbrainz_releasetrack_id": "e8a56017-cf64-4c9f-8968-55835ebd2086"
+    },
+    "14": {
+      "title": "Outrolude",
+      "composer": [
+        "Edward Chan"
+      ],
+      "lyricist": [],
+      "arranger": [],
+      "musicbrainz_recording_id": "6a5b0c76-ea66-4963-a8f4-1694b11ddfff",
+      "musicbrainz_releasetrack_id": "f1da0cb3-ed40-4e18-a840-8ad90d15893c"
+    }
+  }
+}

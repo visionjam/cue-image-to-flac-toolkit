@@ -1,0 +1,223 @@
+{
+  "folder": "2005 - Soulboy",
+  "album": "Soulboy",
+  "date": "2005-11-18",
+  "year": 2005,
+  "genre": [
+    "国语流行",
+    "节奏蓝调",
+    "灵魂乐"
+  ],
+  "musicbrainz": {
+    "release_id": "b17084ab-4541-46d6-a249-4160d00f3559",
+    "release_group_id": "7206bf15-ab2b-42c5-855f-58a608784afa",
+    "artist_id": "081f97c3-2ae9-4698-aa43-88ccb58af4d5",
+    "label": "Warner Music Hong Kong",
+    "country": "HK",
+    "catalog_number": "5046798392",
+    "barcode": null,
+    "matched_title": "Soulboy",
+    "source_url": "https://musicbrainz.org/release/b17084ab-4541-46d6-a249-4160d00f3559"
+  },
+  "tracks": {
+    "1": {
+      "title": "Prologue",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "c6bc3260-1382-4245-8ecb-f72d8276268d",
+      "musicbrainz_releasetrack_id": "792c346c-b767-4353-852e-312979e548cc"
+    },
+    "2": {
+      "title": "妹妹",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "988b1e2f-278c-4b4d-bc24-8d57ee0a2b36",
+      "musicbrainz_releasetrack_id": "94a79207-551f-4f9f-8e2d-12403193e613"
+    },
+    "3": {
+      "title": "春風吹",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "184dce02-fbe2-4604-a188-4e719e32b70e",
+      "musicbrainz_releasetrack_id": "0342ddaf-e9bf-4489-ae03-872e70d68725"
+    },
+    "4": {
+      "title": "每天每天",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "1a2789f1-157e-401b-901f-76108c74be6d",
+      "musicbrainz_releasetrack_id": "024c380f-6179-4af8-8313-6bdf5bb5ffa5"
+    },
+    "5": {
+      "title": "女人",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同",
+        "梁茹岚"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "fe43e748-03c1-40eb-9b4b-7eedb5c9b8db",
+      "musicbrainz_releasetrack_id": "4a6dd740-cf5d-4518-b890-53eb0b82cdd1"
+    },
+    "6": {
+      "title": "叫我怎麼說",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "ad84c609-482e-43fc-8cde-4e846e7e531e",
+      "musicbrainz_releasetrack_id": "24be6b81-fc57-4719-bef9-9d5941c62777"
+    },
+    "7": {
+      "title": "哪怕",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "梁茹岚"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "34cfb119-e982-43e1-b1fa-f0065b50c34f",
+      "musicbrainz_releasetrack_id": "11311078-a8e7-4283-ac89-c332aea1b37f"
+    },
+    "8": {
+      "title": "南音",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "林夕"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "57726764-1123-4f89-b610-cce16a776d21",
+      "musicbrainz_releasetrack_id": "3ebf4516-5004-4b64-9a15-58d04e937be3"
+    },
+    "9": {
+      "title": "我們能不能",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "6e01a75a-9b04-4be5-bc84-787d1c0466bc",
+      "musicbrainz_releasetrack_id": "5f707774-db04-475b-aa72-1aef2a04bdb5"
+    },
+    "10": {
+      "title": "跳",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "5973137f-ed83-4b56-b462-871c7069de1f",
+      "musicbrainz_releasetrack_id": "b3198585-fdb1-483b-b9a4-c0ff4171dcec"
+    },
+    "11": {
+      "title": "總結",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "302ad13d-4803-424a-a53f-ea25b7b8309d",
+      "musicbrainz_releasetrack_id": "3c0204d5-c3db-4645-ae1c-1ffa321988fe"
+    },
+    "12": {
+      "title": "趕場",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同",
+        "梁茹岚"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "7ba91b7b-bc57-4541-a2e8-044d00136cf8",
+      "musicbrainz_releasetrack_id": "014bc66c-04fd-4a94-b418-89540676661f"
+    },
+    "13": {
+      "title": "等著你回來",
+      "composer": [
+        "严宽"
+      ],
+      "lyricist": [
+        "严宽",
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "49203e74-b3cf-4281-acb8-65f014adabc5",
+      "musicbrainz_releasetrack_id": "728cb2dd-20a5-44c7-bbae-c6bb6f85d1fc"
+    },
+    "14": {
+      "title": "认识你 (Hidden Track)",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "e971ec16-56c5-476f-a3ae-5095de195c6f",
+      "musicbrainz_releasetrack_id": "d6887ca2-c4d9-4ca5-83e2-4c5544feab2a"
+    }
+  }
+}

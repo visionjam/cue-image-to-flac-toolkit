@@ -1,0 +1,285 @@
+{
+  "folder": "2013 - The Soulboy Collection/Disc 2",
+  "album": "The Soulboy Collection",
+  "disc": 2,
+  "date": "2013-11-26",
+  "year": 2013,
+  "genre": [
+    "国语流行",
+    "英语流行",
+    "精选"
+  ],
+  "discnumber": 2,
+  "disctotal": 2,
+  "tracktotal": 18,
+  "musicbrainz": {
+    "release_id": "93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6",
+    "release_group_id": "a36a9f81-e469-4767-8730-f30d609b94fd",
+    "artist_id": "081f97c3-2ae9-4698-aa43-88ccb58af4d5",
+    "label": "Warner Music Hong Kong",
+    "country": "HK",
+    "catalog_number": "5054196009120",
+    "barcode": "5054196009120",
+    "matched_title": "The Soulboy Collection",
+    "source_url": "https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6"
+  },
+  "tracks": {
+    "1": {
+      "title": "三人遊",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "崔惟楷"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "4f26ef16-af62-4c03-b5d0-e42bdd5af08e",
+      "musicbrainz_releasetrack_id": "96144f2a-d9e6-4033-91e3-7f6d5792f57f"
+    },
+    "2": {
+      "title": "1234567",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "葛大为"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "acd3eb38-90d9-439e-ba22-7e2976e5c376",
+      "musicbrainz_releasetrack_id": "be0d58cc-97ba-414b-a21c-2d8d9288d536"
+    },
+    "3": {
+      "title": "Nothing’s Gonna Change My Love for You",
+      "composer": [
+        "Michael Masser",
+        "Gerald Goffin"
+      ],
+      "lyricist": [
+        "Michael Masser",
+        "Gerald Goffin"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "cf5edb06-8168-43d0-bc5a-dc9e28927389",
+      "musicbrainz_releasetrack_id": "d0ee4f25-33d3-4444-8bc5-696355a6c9d3"
+    },
+    "4": {
+      "title": "月亮代表我的心",
+      "composer": [
+        "翁清溪"
+      ],
+      "lyricist": [
+        "孙仪"
+      ],
+      "arranger": [
+        "Edward Chan",
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "48a9a7fa-5939-46e3-9d36-1fc6258cfd62",
+      "musicbrainz_releasetrack_id": "8d89bfa0-a9a4-4681-8edb-a22bdb3edfbe"
+    },
+    "5": {
+      "title": "紅豆",
+      "composer": [
+        "柳重言"
+      ],
+      "lyricist": [
+        "林夕"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "33ce514f-849a-4e53-8a22-6b4523a81e85",
+      "musicbrainz_releasetrack_id": "11c5eda6-6b6a-4c2d-a22d-2122d2287797"
+    },
+    "6": {
+      "title": "Wonderful Tonight",
+      "composer": [
+        "Eric Clapton"
+      ],
+      "lyricist": [
+        "Eric Clapton"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "4b2e872a-470d-4b7d-96e8-b67a9e82a91d",
+      "musicbrainz_releasetrack_id": "a3172adc-a7e3-4f06-8c39-5ba001c3083b"
+    },
+    "7": {
+      "title": "You Are the Sunshine of My Life",
+      "composer": [
+        "Stevie Wonder"
+      ],
+      "lyricist": [
+        "Stevie Wonder"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "c910915f-0544-4730-8ea2-60709d41ea8d",
+      "musicbrainz_releasetrack_id": "7d0af247-0b7a-4733-887c-c933282f4112"
+    },
+    "8": {
+      "title": "張永成",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同",
+        "Ghost Style"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "c4cfa368-a6db-44fc-a784-3725eac0750d",
+      "musicbrainz_releasetrack_id": "e40d2c5a-8722-4816-bcf1-6e5fdf77e0fd"
+    },
+    "9": {
+      "title": "自以為",
+      "composer": [
+        "方大同",
+        "Edward Chan"
+      ],
+      "lyricist": [
+        "崔惟楷"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "8c7cb376-b702-4448-8f3c-ea2d7565e34d",
+      "musicbrainz_releasetrack_id": "22468fd6-4ba5-4d74-a368-c4f632fa95fa"
+    },
+    "10": {
+      "title": "好不容易",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "70ad3a69-6378-40ce-9455-a1813e93a4cf",
+      "musicbrainz_releasetrack_id": "fa93db2d-8cfe-4815-b5af-a3faabf1fde3"
+    },
+    "11": {
+      "title": "因為你",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "7fb41f80-986b-4266-8093-1880c36fd692",
+      "musicbrainz_releasetrack_id": "3aac04a5-5fdc-40c3-89bd-3dd5d060ca11"
+    },
+    "12": {
+      "title": "情勝策略",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "农夫"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "0d42dff5-a3df-4fe9-b80e-45054fa47792",
+      "musicbrainz_releasetrack_id": "e4facc36-2248-4386-8962-1316d7c619da"
+    },
+    "13": {
+      "title": "千紙鶴",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方文山"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "566e81db-e5db-4bd0-9bb6-3ea942adc5d6",
+      "musicbrainz_releasetrack_id": "53e8fc0e-8c4d-4778-8097-f567935b0c7a"
+    },
+    "14": {
+      "title": "Romeo",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "崔惟楷"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "c7768a6f-0e16-4371-be9f-c6f0cabb4fb6",
+      "musicbrainz_releasetrack_id": "e0907c6c-242e-4956-97a9-e496ccdf9d0c"
+    },
+    "15": {
+      "title": "愛立刻",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "崔惟楷"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "8e434972-05ef-4a9b-be85-9f982bcb1542",
+      "musicbrainz_releasetrack_id": "5bb3b92c-0c82-4435-8bb3-38023ecada48"
+    },
+    "16": {
+      "title": "BB88",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "6a26a9f2-286d-4473-8a78-f09c594abc64",
+      "musicbrainz_releasetrack_id": "de1b9f26-7d63-4053-9408-30eb581e025c"
+    },
+    "17": {
+      "title": "關於愛的定義",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "99b33917-eebd-400b-860e-927a9dc3ee7f",
+      "musicbrainz_releasetrack_id": "ff42c589-0a2b-4eda-bdc6-870c5176d8ce"
+    },
+    "18": {
+      "title": "玩樂",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "cd4af372-8de4-4a8c-bdd0-918ffae60458",
+      "musicbrainz_releasetrack_id": "a315fcd1-e79a-498b-b76c-67c2f8f1bed1"
+    }
+  }
+}

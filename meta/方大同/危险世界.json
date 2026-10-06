@@ -1,0 +1,239 @@
+{
+  "folder": "危险世界",
+  "album": "危险世界",
+  "date": "2014-04-11",
+  "year": 2014,
+  "genre": [
+    "国语流行",
+    "Electropop"
+  ],
+  "musicbrainz": {
+    "release_id": "048bfde1-44b8-41ff-b57a-dc1ac0beea66",
+    "release_group_id": "adead8fc-6f6a-4243-ad3f-71184d105bd5",
+    "artist_id": "081f97c3-2ae9-4698-aa43-88ccb58af4d5",
+    "label": "GNOF LIMITED",
+    "country": "TW",
+    "catalog_number": "471 412766 881 9",
+    "barcode": "4714127668819",
+    "matched_title": "危險世界",
+    "source_url": "https://musicbrainz.org/release/048bfde1-44b8-41ff-b57a-dc1ac0beea66"
+  },
+  "tracks": {
+    "1": {
+      "title": "Welcome",
+      "composer": [],
+      "lyricist": [],
+      "arranger": [],
+      "musicbrainz_recording_id": "4e7227e9-fcc5-4e6f-8d9a-71d1491dc1c5",
+      "musicbrainz_releasetrack_id": "8eb3d62d-e7a1-4b98-9348-9586fb041107"
+    },
+    "2": {
+      "title": "危险世界",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同",
+        "Derrick Sepnio"
+      ],
+      "musicbrainz_recording_id": "2d3a9d68-f575-46aa-ae03-3eeffca71386",
+      "musicbrainz_releasetrack_id": "d25ca326-8635-495c-8a65-1e9e6dd2dc0d"
+    },
+    "3": {
+      "title": "Peace",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同",
+        "Derrick Sepnio"
+      ],
+      "musicbrainz_recording_id": "c4b3bd26-8232-492a-8307-530431f0d747",
+      "musicbrainz_releasetrack_id": "5ca6f278-2565-492d-9873-a28e8958960c"
+    },
+    "4": {
+      "title": "小方",
+      "composer": [
+        "方大同",
+        "李春波"
+      ],
+      "lyricist": [
+        "方大同",
+        "C君",
+        "李春波"
+      ],
+      "arranger": [
+        "方大同",
+        "Derrick Sepnio"
+      ],
+      "musicbrainz_recording_id": "ad6435d2-859f-45ce-866f-2d42d0d090e2",
+      "musicbrainz_releasetrack_id": "5c7a320a-cc3c-4f83-8c6b-0be8fd1c999b"
+    },
+    "5": {
+      "title": "Soundcheck",
+      "composer": [],
+      "lyricist": [],
+      "arranger": [],
+      "musicbrainz_recording_id": "25660212-7d70-4357-b637-26af1401d774",
+      "musicbrainz_releasetrack_id": "8939d2cc-83cf-4d97-a05f-b52607036b02"
+    },
+    "6": {
+      "title": "黑白灰",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "崔惟楷"
+      ],
+      "arranger": [
+        "方大同",
+        "Derrick Sepnio"
+      ],
+      "musicbrainz_recording_id": "e6af7d87-acca-4345-b574-7891cf14558b",
+      "musicbrainz_releasetrack_id": "a3144fb3-149f-4efb-94c9-7b8241bc81b3"
+    },
+    "7": {
+      "title": "桃花运",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "小广"
+      ],
+      "arranger": [
+        "方大同",
+        "Derrick Sepnio"
+      ],
+      "musicbrainz_recording_id": "be61c762-1be9-493c-9d9b-4c0c6d4c62fd",
+      "musicbrainz_releasetrack_id": "800ea6c3-de91-4e5b-a417-3a0fc80375b3"
+    },
+    "8": {
+      "title": "特别的人",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "Derrick Sepnio"
+      ],
+      "musicbrainz_recording_id": "740d88f6-707f-4e2c-ba66-cec2af51eb83",
+      "musicbrainz_releasetrack_id": "6cb7408d-38f5-4570-8aa9-81d11b2f0e1c"
+    },
+    "9": {
+      "title": "Weather Report",
+      "composer": [],
+      "lyricist": [],
+      "arranger": [],
+      "musicbrainz_recording_id": "c0cf9211-8a34-4d73-b765-6a771bbdabc0",
+      "musicbrainz_releasetrack_id": "58f8c9c1-1ca3-4a25-9413-205a3c6b4cd3"
+    },
+    "10": {
+      "title": "天气先生",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "84aead8d-6c33-4e5b-8a98-cf0c46b77c08",
+      "musicbrainz_releasetrack_id": "6839a856-37bf-402f-9772-9a2b96b4b5c4"
+    },
+    "11": {
+      "title": "枫叶做的风铃",
+      "composer": [
+        "方大同",
+        "Edward Chan",
+        "T-ma"
+      ],
+      "lyricist": [
+        "小寒"
+      ],
+      "arranger": [
+        "方大同",
+        "Derrick Sepnio",
+        "Edward Chan"
+      ],
+      "musicbrainz_recording_id": "66bac10e-f533-4d85-9085-ff30ed612ce0",
+      "musicbrainz_releasetrack_id": "df7648e6-4a3b-451e-9aef-1023ed33531b"
+    },
+    "12": {
+      "title": "Boarding",
+      "composer": [],
+      "lyricist": [],
+      "arranger": [],
+      "musicbrainz_recording_id": "19b9f8e2-c48f-4153-8df8-d55f2103a5f9",
+      "musicbrainz_releasetrack_id": "ee3c9bc9-f5e4-4096-8985-e1f6168572d2"
+    },
+    "13": {
+      "title": "巴黎",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "660e50fa-e8fc-414e-a8f5-c712ccb5d4db",
+      "musicbrainz_releasetrack_id": "80815a0f-fcf6-4c1d-9449-b6af3b9a4109"
+    },
+    "14": {
+      "title": "爱不来",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "C君",
+        "葛仲珊"
+      ],
+      "arranger": [
+        "方大同",
+        "Derrick Sepnio"
+      ],
+      "musicbrainz_recording_id": "30a22a24-017f-48c2-a59f-0f994e120f61",
+      "musicbrainz_releasetrack_id": "25d78e61-12e0-4b44-8340-5048a31db041"
+    },
+    "15": {
+      "title": "僵尸",
+      "composer": [
+        "方大同",
+        "Derrick Sepnio"
+      ],
+      "lyricist": [
+        "崔惟楷"
+      ],
+      "arranger": [
+        "方大同",
+        "Derrick Sepnio"
+      ],
+      "musicbrainz_recording_id": "98221a22-e764-4025-b6f7-c06a41745b9a",
+      "musicbrainz_releasetrack_id": "78af3a32-3e8a-43c8-b170-99159e621059"
+    },
+    "16": {
+      "title": "Lights Up",
+      "composer": [
+        "方大同",
+        "Fergus Chow"
+      ],
+      "lyricist": [
+        "方大同",
+        "Fergus Chow"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "896c857a-7d51-46f1-9ec0-83dfc81bcaa0",
+      "musicbrainz_releasetrack_id": "11e9ad33-c167-42e7-b705-3f65a60438f3"
+    }
+  }
+}

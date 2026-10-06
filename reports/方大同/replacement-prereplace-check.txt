@@ -1,0 +1,56 @@
+========== A) 频谱截止筛查（27 个补下件） ==========
+[OK ] ratio=1.000 cutoff= 22050Hz  chengyue\1.01. Singalongsong.flac
+[OK ] ratio=1.000 cutoff= 22050Hz  chengyue\1.04. 黑白.flac
+[OK ] ratio=1.000 cutoff= 22050Hz  chengyue\1.06. 黑洞裡.flac
+[OK ] ratio=1.000 cutoff= 22050Hz  chengyue\1.08. 每個人都會.flac
+[OK ] ratio=1.000 cutoff= 22050Hz  chengyue\1.09. 100種表情.flac
+[OK ] ratio=1.000 cutoff= 22050Hz  chengyue\1.10. 愛我吧.flac
+[OK ] ratio=1.000 cutoff= 22050Hz  chengyue\11 為妳寫的歌 (Singalongsong 中文版).flac
+[OK ] ratio=1.000 cutoff= 22050Hz  chengyue\1234567-方大同.flac
+[OK ] ratio=1.000 cutoff= 22050Hz  concert\03. Khalil Fong - Black And White [Timeless Live 2009].flac
+[OK ] ratio=1.000 cutoff= 22050Hz  concert\06. Khalil Fong - Man And Woman [Timeless Live 2009].flac
+[OK ] ratio=1.000 cutoff= 22050Hz  concert\07. Khalil Fong - Sweety Pie [Timeless Live 2009].flac
+[OK ] ratio=1.000 cutoff= 22050Hz  concert\10. Khalil Fong - La Bamba [Timeless Live 2009].flac
+[OK ] ratio=1.000 cutoff= 22050Hz  concert\102. Khalil Fong - Bad [Timeless Live 2009].flac
+[OK ] ratio=1.000 cutoff= 22050Hz  concert\103. Khalil Fong - 1234567 [Timeless Live 2009].flac
+[OK ] ratio=1.000 cutoff= 22050Hz  concert\112. Khalil Fong - Sound From The North Side [Timeless Live 2009].flac
+[OK ] ratio=1.000 cutoff= 22050Hz  concert\115. Khalil Fong - Georgia on my mind [Timeless Live 2009].flac
+[OK ] ratio=1.000 cutoff= 22050Hz  concert\12. Khalil Fong - Singalongsong [Timeless Live 2009].flac
+[OK ] ratio=1.000 cutoff= 22050Hz  gold\12. All Night (feat. Diana Wang).flac
+[OK ] ratio=1.000 cutoff= 22050Hz  gold\13. Right Girl.flac
+[OK ] ratio=0.949 cutoff= 20925Hz  gold\14. Run From Your Love (feat. Fifi Rong).flac
+[OK ] ratio=1.000 cutoff= 22050Hz  gold\15. 烦.flac
+[OK ] ratio=0.934 cutoff= 20591Hz  gold\16. Once.flac
+[OK ] ratio=1.000 cutoff= 22050Hz  gold\17. 无所谓 (feat. Jane Zhang).flac
+[OK ] ratio=1.000 cutoff= 22050Hz  gold\18. 黑夜.flac
+[OK ] ratio=1.000 cutoff= 22050Hz  gold\19. 很不低调.flac
+[OK ] ratio=0.949 cutoff= 20925Hz  gold\20. 放不过自己.flac
+[OK ] ratio=1.000 cutoff= 22050Hz  gold\21. As I Do.flac
+
+========== B) GOLD 24bit 低位有效性 ==========
+  低8位非零占比=  0.00%  (2097152 样本)  12. All Night (feat. Diana Wang).flac
+  低8位非零占比=  0.00%  (2097152 样本)  13. Right Girl.flac
+  低8位非零占比=  0.00%  (2097152 样本)  14. Run From Your Love (feat. Fifi Rong).flac
+  低8位非零占比=  0.00%  (2097152 样本)  15. 烦.flac
+  低8位非零占比=  0.00%  (2097152 样本)  16. Once.flac
+  低8位非零占比=  0.00%  (2097152 样本)  17. 无所谓 (feat. Jane Zhang).flac
+  低8位非零占比=  0.00%  (2097152 样本)  18. 黑夜.flac
+  低8位非零占比=  0.00%  (2097152 样本)  19. 很不低调.flac
+  低8位非零占比=  0.00%  (2097152 样本)  20. 放不过自己.flac
+  低8位非零占比=  0.00%  (2097152 样本)  21. As I Do.flac
+
+========== C) 演唱会对照 ==========
+  [补下] rms=-13.79dB peak= -0.20dB  03. Khalil Fong - Black And White [Timeless Live 2009].flac
+  [补下] rms=-13.66dB peak= -0.20dB  06. Khalil Fong - Man And Woman [Timeless Live 2009].flac
+  [补下] rms=-12.33dB peak= -0.20dB  07. Khalil Fong - Sweety Pie [Timeless Live 2009].flac
+  [补下] rms=-16.56dB peak= -0.20dB  10. Khalil Fong - La Bamba [Timeless Live 2009].flac
+  [补下] rms=-13.45dB peak= -0.20dB  102. Khalil Fong - Bad [Timeless Live 2009].flac
+  [补下] rms=-12.10dB peak= -0.20dB  103. Khalil Fong - 1234567 [Timeless Live 2009].flac
+  [补下] rms=-14.85dB peak= -0.20dB  112. Khalil Fong - Sound From The North Side [Timeless Live 2009].flac
+  [补下] rms=-18.15dB peak= -0.20dB  115. Khalil Fong - Georgia on my mind [Timeless Live 2009].flac
+  [补下] rms=-15.08dB peak= -0.20dB  12. Khalil Fong - Singalongsong [Timeless Live 2009].flac
+  [本地22] rms -25.16 ~ -13.13 dB; peak -6.28 ~ -0.02 dB
+     本地样例: rms=-13.37 peak= -0.20  01.Introlude (Timeless Live 2009).flac
+     本地样例: rms=-13.13 peak= -0.20  04.如果爱 (Live).flac
+     本地样例: rms=-15.23 peak= -0.20  05.记得 (Live).flac
+     本地样例: rms=-15.44 peak= -0.20  06.Nothing’s Gonna Change My Love For You (Live).flac

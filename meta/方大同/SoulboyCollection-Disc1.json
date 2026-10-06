@@ -1,0 +1,281 @@
+{
+  "folder": "2013 - The Soulboy Collection/Disc 1",
+  "album": "The Soulboy Collection",
+  "disc": 1,
+  "date": "2013-11-26",
+  "year": 2013,
+  "genre": [
+    "国语流行",
+    "英语流行",
+    "精选"
+  ],
+  "discnumber": 1,
+  "disctotal": 2,
+  "tracktotal": 18,
+  "musicbrainz": {
+    "release_id": "93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6",
+    "release_group_id": "a36a9f81-e469-4767-8730-f30d609b94fd",
+    "artist_id": "081f97c3-2ae9-4698-aa43-88ccb58af4d5",
+    "label": "Warner Music Hong Kong",
+    "country": "HK",
+    "catalog_number": "5054196009120",
+    "barcode": "5054196009120",
+    "matched_title": "The Soulboy Collection",
+    "source_url": "https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6"
+  },
+  "tracks": {
+    "1": {
+      "title": "妹妹",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "988b1e2f-278c-4b4d-bc24-8d57ee0a2b36",
+      "musicbrainz_releasetrack_id": "48f9fbc7-a474-491c-9a14-3a45f7d6ed56"
+    },
+    "2": {
+      "title": "春風吹",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "184dce02-fbe2-4604-a188-4e719e32b70e",
+      "musicbrainz_releasetrack_id": "29149004-cacd-4634-b405-ba00ed3ac695"
+    },
+    "3": {
+      "title": "南音",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "林夕"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "57726764-1123-4f89-b610-cce16a776d21",
+      "musicbrainz_releasetrack_id": "258c480b-24c3-4f3d-bef1-44bbf25e971f"
+    },
+    "4": {
+      "title": "我們能不能",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "6e01a75a-9b04-4be5-bc84-787d1c0466bc",
+      "musicbrainz_releasetrack_id": "cd7d94cd-0d81-4968-971f-4d4a6a4854b2"
+    },
+    "5": {
+      "title": "每天每天",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "1a2789f1-157e-401b-901f-76108c74be6d",
+      "musicbrainz_releasetrack_id": "8bd157a8-4caf-4e93-8618-323a4b26af22"
+    },
+    "6": {
+      "title": "愛愛愛",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "2390f5dc-7bc9-4994-b7e5-3356da2953e6",
+      "musicbrainz_releasetrack_id": "737be6e9-39c8-4b65-9167-888c5246ed01"
+    },
+    "7": {
+      "title": "蘇麗珍",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "dd4ddf61-9c00-4bc9-873b-357968f97e0e",
+      "musicbrainz_releasetrack_id": "e455ae87-b460-492e-b3f0-38972b043762"
+    },
+    "8": {
+      "title": "四人遊",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "林夕"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "00cf608f-b2da-408d-8136-a49c02685bf9",
+      "musicbrainz_releasetrack_id": "035c22d4-079f-4ea4-a060-27cc72cda1ed"
+    },
+    "9": {
+      "title": "詩人的情人",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "林夕"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "9a4416b2-93bb-4b09-89e7-da2512986cf2",
+      "musicbrainz_releasetrack_id": "6d72407f-74a5-43ca-b56a-86d325bc1bc7"
+    },
+    "10": {
+      "title": "歌手與模特兒",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "林夕"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "79582464-2e0c-4a4e-9ef4-33041b4cbd48",
+      "musicbrainz_releasetrack_id": "6c07496a-2eb9-43b1-a79f-a470a761bb6f"
+    },
+    "11": {
+      "title": "Love Song",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "e95d05ef-1529-48de-a29e-ad310c53acf8",
+      "musicbrainz_releasetrack_id": "94e6cedf-c92f-415c-8cc5-32f5cceccdf0"
+    },
+    "12": {
+      "title": "夠不夠",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同",
+        "梁茹岚"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "93f63b39-41c7-40f2-9ad2-7b994e84a218",
+      "musicbrainz_releasetrack_id": "41efed6d-6973-41a3-8e18-943cff6b17a8"
+    },
+    "13": {
+      "title": "Sorry",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "7e858384-ef2d-46db-bed0-524cc5ba0218",
+      "musicbrainz_releasetrack_id": "bcd759a7-0cf9-4b48-b236-42263f1f0cb8"
+    },
+    "14": {
+      "title": "公園",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "ce4c6cd7-b063-4808-a764-b1fcd7fb0726",
+      "musicbrainz_releasetrack_id": "23372e15-62bf-4e03-9bd3-73067cf7d2fb"
+    },
+    "15": {
+      "title": "愛在",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "dfca17d0-aafc-449f-8911-a73350c3feab",
+      "musicbrainz_releasetrack_id": "dc5888eb-9263-4940-8518-d4c01d65a6f6"
+    },
+    "16": {
+      "title": "Singalongsong",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "53d5926e-fc37-4758-9c48-04beb7dde2d9",
+      "musicbrainz_releasetrack_id": "ea0b86ae-2854-49ae-ad24-621fb9195875"
+    },
+    "17": {
+      "title": "小小蟲",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "农夫"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "993cf585-446c-4c6e-8c44-e882ef5933b1",
+      "musicbrainz_releasetrack_id": "80d21cbe-9f4e-4ff7-9c70-de551c1bd487"
+    },
+    "18": {
+      "title": "每個人都會",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "林夕"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "f8c05047-ff2a-42f1-bd97-a97c87108fe2",
+      "musicbrainz_releasetrack_id": "16668656-9018-42f0-a8ab-e7d8cc4c3e3e"
+    }
+  }
+}

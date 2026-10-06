@@ -1,0 +1,163 @@
+{
+  "folder": "梦想家 The Dreamer",
+  "album": "梦想家 The Dreamer",
+  "date": "2024-10-18",
+  "year": 2024,
+  "genre": [
+    "国语流行",
+    "节奏蓝调"
+  ],
+  "musicbrainz": {
+    "release_id": "decb48fe-b689-4165-88b4-cc020ed1c6a9",
+    "release_group_id": "70d5aba0-f357-4b27-a39b-b4d0018fba0c",
+    "artist_id": "081f97c3-2ae9-4698-aa43-88ccb58af4d5",
+    "label": "FU MUSIC",
+    "country": "CN",
+    "catalog_number": null,
+    "barcode": "196872543742",
+    "matched_title": "梦想家 The Dreamer",
+    "source_url": "https://musicbrainz.org/release/decb48fe-b689-4165-88b4-cc020ed1c6a9"
+  },
+  "tracks": {
+    "1": {
+      "title": "XZMHXDXH",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "d3e9b81b-ff96-4733-a8fc-4416ac2670b8",
+      "musicbrainz_releasetrack_id": "debe9b24-23bb-4347-bc0c-4ce00ae72fc0"
+    },
+    "2": {
+      "title": "江湖中人",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "97147f31-c445-45f0-b2d3-8cf2cabea1e4",
+      "musicbrainz_releasetrack_id": "5139df00-16a7-4d8e-8988-4e49dc53b988"
+    },
+    "3": {
+      "title": "GF",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "fe0ee3c8-39ee-4a73-a277-89c7e2a46869",
+      "musicbrainz_releasetrack_id": "7ab70dd0-f914-4c19-9699-3972ec0d5e99"
+    },
+    "4": {
+      "title": "Tango",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "479f8bd8-b14a-45b8-acb5-51f3b1c7f108",
+      "musicbrainz_releasetrack_id": "179ea220-6e27-4718-b733-8057cd58ffad"
+    },
+    "5": {
+      "title": "才二十三",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "f8c072a4-15f0-461d-bfa1-b6957e1cabc7",
+      "musicbrainz_releasetrack_id": "1d264fad-d1d1-4062-a93e-6b6cd98b888f"
+    },
+    "6": {
+      "title": "谁知爱是什么",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "373e21cc-02a2-4ecb-9263-0c63dfd1f6e2",
+      "musicbrainz_releasetrack_id": "a2ddf3cc-368d-48e1-8d36-950f75f7a777"
+    },
+    "7": {
+      "title": "我不是农人",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "a18e2ce9-1790-40d7-a953-01f5eca2a1f9",
+      "musicbrainz_releasetrack_id": "502ee480-5574-490a-a196-064c68664678"
+    },
+    "8": {
+      "title": "那沙漠里的水",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "c263de6a-bf2b-42ce-bdc2-30d62b61d843",
+      "musicbrainz_releasetrack_id": "563cf85e-b6f9-4554-b1cf-e0ac89c45076"
+    },
+    "9": {
+      "title": "回留",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "崔惟楷"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "14b08d5a-da0a-4c79-b2e1-f492b3572c70",
+      "musicbrainz_releasetrack_id": "9705c803-47f2-4b18-a597-f5ad9a5a7f41"
+    },
+    "10": {
+      "title": "没啥好说",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "82aabc23-834e-4369-aa8e-68649e188225",
+      "musicbrainz_releasetrack_id": "82f74c6a-7d1c-452e-b024-1adcf1986adf"
+    }
+  }
+}

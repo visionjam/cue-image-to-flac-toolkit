@@ -1,0 +1,184 @@
+{
+  "folder": "Timeless 可啦思刻",
+  "album": "Timeless 可啦思刻",
+  "date": "2009-08-11",
+  "year": 2009,
+  "genre": [
+    "国语流行",
+    "英语流行",
+    "粤语流行",
+    "翻唱"
+  ],
+  "musicbrainz": {
+    "release_id": "bc9e68eb-caa0-4353-8880-0a357d83550e",
+    "release_group_id": "5854d35b-ea30-4167-9205-b8346bb6fdd3",
+    "artist_id": "081f97c3-2ae9-4698-aa43-88ccb58af4d5",
+    "label": "Warner Music Hong Kong",
+    "country": "HK",
+    "catalog_number": "5051865-5144-5-9",
+    "barcode": "5051865514459",
+    "matched_title": "Timeless 可啦思刻",
+    "source_url": "https://musicbrainz.org/release/bc9e68eb-caa0-4353-8880-0a357d83550e"
+  },
+  "tracks": {
+    "1": {
+      "title": "You Are the Sunshine of My Life",
+      "composer": [
+        "Stevie Wonder"
+      ],
+      "lyricist": [
+        "Stevie Wonder"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "c910915f-0544-4730-8ea2-60709d41ea8d",
+      "musicbrainz_releasetrack_id": "b0fb513b-bb44-4b82-a05e-fda9d56e5b7c"
+    },
+    "2": {
+      "title": "Nothing's Gonna Change My Love for You",
+      "composer": [
+        "Michael Masser",
+        "Gerald Goffin"
+      ],
+      "lyricist": [
+        "Michael Masser",
+        "Gerald Goffin"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "cf5edb06-8168-43d0-bc5a-dc9e28927389",
+      "musicbrainz_releasetrack_id": "e02d8c14-1578-4a56-8011-62acd5cc327c"
+    },
+    "3": {
+      "title": "Bad",
+      "composer": [
+        "Michael Jackson"
+      ],
+      "lyricist": [
+        "Michael Jackson"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "08a74234-87f0-4b57-beef-199a4981a0ec",
+      "musicbrainz_releasetrack_id": "6621817d-de89-4a2e-b30b-00b94cc84bac"
+    },
+    "4": {
+      "title": "狂潮",
+      "composer": [
+        "顾嘉煇"
+      ],
+      "lyricist": [
+        "黄霑"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "a8070dde-76a6-4af4-9169-f0a3229a61f3",
+      "musicbrainz_releasetrack_id": "83789808-b1e6-46e2-bddb-70ca736f6f29"
+    },
+    "5": {
+      "title": "La Bamba",
+      "composer": [
+        "Ritchie Valens"
+      ],
+      "lyricist": [
+        "Ritchie Valens"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "790bc6b2-4221-4a39-969e-5ac8a6a9244e",
+      "musicbrainz_releasetrack_id": "3e6e76ed-c16b-4425-a78c-bfff37bb6321"
+    },
+    "6": {
+      "title": "红豆",
+      "composer": [
+        "柳重言"
+      ],
+      "lyricist": [
+        "林夕"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "33ce514f-849a-4e53-8a22-6b4523a81e85",
+      "musicbrainz_releasetrack_id": "b04f8199-6e3d-4a97-8d74-1ed744d0a9c3"
+    },
+    "7": {
+      "title": "Georgia on My Mind",
+      "composer": [
+        "Hoagy Carmichael",
+        "Stuart Gorrell"
+      ],
+      "lyricist": [
+        "Hoagy Carmichael",
+        "Stuart Gorrell"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "ed3c0df6-67ff-4a31-aed6-a3faafd19c31",
+      "musicbrainz_releasetrack_id": "09129cd6-2b1e-41a6-86a6-dab0b72c15ea"
+    },
+    "8": {
+      "title": "记得",
+      "composer": [
+        "林俊杰"
+      ],
+      "lyricist": [
+        "易家扬"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "fc743aa6-ecf7-4f2c-bc9e-4f5aaca6a1f0",
+      "musicbrainz_releasetrack_id": "f5b1325f-7131-470f-81d7-b92ce6285f0b"
+    },
+    "9": {
+      "title": "Wonderful Tonight",
+      "composer": [
+        "Eric Clapton"
+      ],
+      "lyricist": [
+        "Eric Clapton"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "4b2e872a-470d-4b7d-96e8-b67a9e82a91d",
+      "musicbrainz_releasetrack_id": "40ccf65d-89bf-4f0d-a954-c57363ebd9dd"
+    },
+    "10": {
+      "title": "Moon River",
+      "composer": [
+        "Henry Mancini"
+      ],
+      "lyricist": [
+        "Johnny Mercer"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "a938b665-2df8-493c-9917-2b8db21dd348",
+      "musicbrainz_releasetrack_id": "9833b735-e4fb-47a4-9060-87e0be6d59ce"
+    },
+    "11": {
+      "title": "月亮代表我的心",
+      "composer": [
+        "翁清溪"
+      ],
+      "lyricist": [
+        "孙仪"
+      ],
+      "arranger": [
+        "Edward Chan",
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "48a9a7fa-5939-46e3-9d36-1fc6258cfd62",
+      "musicbrainz_releasetrack_id": "c1880011-63ff-41ec-8e53-9afbae234134"
+    }
+  }
+}

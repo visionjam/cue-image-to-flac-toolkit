@@ -1,0 +1,777 @@
+﻿album_folder,track,field,value,source_url,retrieved_on,note
+爱爱爱,*,date,2006-12-29,https://musicbrainz.org/release/4d75d211-4c47-4ea0-a8c1-6c537ae79e1e,2026-10-06,百度百科/快懂百科记 2006-12-31；采用 MusicBrainz 与中文维基一致的 12-29
+爱爱爱,*,genre,国语流行; 节奏蓝调,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,原文繁体「國語流行音樂、節奏藍調」；百度百科作「流行」与 Soul/R&B，一致
+爱爱爱,*,tracklist_check,1-13 与 MusicBrainz 曲目表一一对应，无缺无重,https://musicbrainz.org/release/4d75d211-4c47-4ea0-a8c1-6c537ae79e1e,2026-10-06,本地曲名为简体，与来源繁体标题逐条对应
+爱爱爱,*,release_id,4d75d211-4c47-4ea0-a8c1-6c537ae79e1e,https://musicbrainz.org/release/4d75d211-4c47-4ea0-a8c1-6c537ae79e1e,2026-10-06,
+爱爱爱,*,release_group_id,c78cf5af-3a6a-3ab1-a06b-5457059b91a7,https://musicbrainz.org/release/4d75d211-4c47-4ea0-a8c1-6c537ae79e1e,2026-10-06,
+爱爱爱,*,artist_id,081f97c3-2ae9-4698-aa43-88ccb58af4d5,https://musicbrainz.org/release/4d75d211-4c47-4ea0-a8c1-6c537ae79e1e,2026-10-06,
+爱爱爱,*,label,wea,https://musicbrainz.org/release/4d75d211-4c47-4ea0-a8c1-6c537ae79e1e,2026-10-06,
+爱爱爱,*,country,HK,https://musicbrainz.org/release/4d75d211-4c47-4ea0-a8c1-6c537ae79e1e,2026-10-06,
+爱爱爱,*,catalog_number,50-51011-9545-2-8,https://musicbrainz.org/release/4d75d211-4c47-4ea0-a8c1-6c537ae79e1e,2026-10-06,
+爱爱爱,*,barcode,5051011954528,https://musicbrainz.org/release/4d75d211-4c47-4ea0-a8c1-6c537ae79e1e,2026-10-06,
+爱爱爱,*,matched_title,愛愛愛 (This Love),https://musicbrainz.org/release/4d75d211-4c47-4ea0-a8c1-6c537ae79e1e,2026-10-06,
+爱爱爱,*,source_url,https://musicbrainz.org/release/4d75d211-4c47-4ea0-a8c1-6c537ae79e1e,https://musicbrainz.org/release/4d75d211-4c47-4ea0-a8c1-6c537ae79e1e,2026-10-06,
+爱爱爱,1,composer,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,1,lyricist,周耀辉,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,1,arranger,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,2,composer,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,2,lyricist,周耀辉,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,2,arranger,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,3,composer,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,3,lyricist,林夕,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,3,arranger,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,4,composer,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,4,lyricist,农夫,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,百度百科作「C KWAN、6 WING」（农夫两位成员）；维基作「農夫」；已与百度百科、快懂百科逐条交叉核对
+爱爱爱,4,arranger,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,5,composer,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,5,lyricist,林夕,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,5,arranger,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,6,composer,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,6,lyricist,方大同; 梁茹岚,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,6,arranger,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,7,composer,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,7,lyricist,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,7,arranger,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,8,composer,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,8,lyricist,周耀辉,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,8,arranger,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,9,composer,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,9,lyricist,林夕,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,9,arranger,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,10,composer,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,10,lyricist,方大同; 梁茹岚,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,10,arranger,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,11,composer,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,11,lyricist,,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,器乐曲，两来源均无作词署名（instrumental）
+爱爱爱,11,arranger,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,12,composer,Peter Cetera,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,中文维基作「彼得·塞特拉」；翻唱自 Chicago 乐团原作；已与百度百科、快懂百科逐条交叉核对
+爱爱爱,12,lyricist,Peter Cetera,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,翻唱自 Chicago 乐团原作；已与百度百科、快懂百科逐条交叉核对
+爱爱爱,12,arranger,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,13,composer,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,13,lyricist,周耀辉,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,已与百度百科、快懂百科逐条交叉核对
+爱爱爱,13,arranger,方大同; Edward Chan,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,维基表列 Edward Chan 为共同编曲；百度百科概叙未单列；已与百度百科、快懂百科逐条交叉核对
+2005 - Soulboy,*,date,2005-11-18,https://musicbrainz.org/release/b17084ab-4541-46d6-a249-4160d00f3559,2026-10-06,文件内嵌 date/originaldate 与中文维基一致；另有资料作 11-16（未采用）
+2005 - Soulboy,*,genre,国语流行; 节奏蓝调; 灵魂乐,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,原文「國語流行音樂、節奏藍調、靈魂樂」
+2005 - Soulboy,*,tracklist_check,1-14 与 MusicBrainz 曲目一一对应；文件内嵌录音 MBID 与 MB 官方版 14/14 吻合；ISRC 为 HKI490567101-114 官方连号,https://musicbrainz.org/release/b17084ab-4541-46d6-a249-4160d00f3559,2026-10-06,内嵌标签与官方发行版相互印证
+2005 - Soulboy,*,arranger,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,维基全局署名：全碟编曲方大同；百度百科同（「编曲演奏」）
+2005 - Soulboy,*,release_id,b17084ab-4541-46d6-a249-4160d00f3559,https://musicbrainz.org/release/b17084ab-4541-46d6-a249-4160d00f3559,2026-10-06,
+2005 - Soulboy,*,release_group_id,7206bf15-ab2b-42c5-855f-58a608784afa,https://musicbrainz.org/release/b17084ab-4541-46d6-a249-4160d00f3559,2026-10-06,
+2005 - Soulboy,*,artist_id,081f97c3-2ae9-4698-aa43-88ccb58af4d5,https://musicbrainz.org/release/b17084ab-4541-46d6-a249-4160d00f3559,2026-10-06,
+2005 - Soulboy,*,label,Warner Music Hong Kong,https://musicbrainz.org/release/b17084ab-4541-46d6-a249-4160d00f3559,2026-10-06,
+2005 - Soulboy,*,country,HK,https://musicbrainz.org/release/b17084ab-4541-46d6-a249-4160d00f3559,2026-10-06,
+2005 - Soulboy,*,catalog_number,5046798392,https://musicbrainz.org/release/b17084ab-4541-46d6-a249-4160d00f3559,2026-10-06,
+2005 - Soulboy,*,matched_title,Soulboy,https://musicbrainz.org/release/b17084ab-4541-46d6-a249-4160d00f3559,2026-10-06,
+2005 - Soulboy,*,source_url,https://musicbrainz.org/release/b17084ab-4541-46d6-a249-4160d00f3559,https://musicbrainz.org/release/b17084ab-4541-46d6-a249-4160d00f3559,2026-10-06,
+2005 - Soulboy,*,barcode,,https://musicbrainz.org/release/b17084ab-4541-46d6-a249-4160d00f3559,2026-10-06,MusicBrainz 未提供条形码
+2005 - Soulboy,1,composer,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,1,lyricist,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,1,arranger,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,2,composer,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,2,lyricist,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,2,arranger,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,3,composer,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,3,lyricist,周耀辉,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,3,arranger,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,4,composer,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,4,lyricist,娃娃,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,华视&TVBS-G电视剧《我们结婚吧》片尾曲；已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,4,arranger,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,5,composer,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,5,lyricist,方大同; 梁茹岚,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,百度百科仅记「方大同」；维基多记「梁茹嵐」，采用维基详版；已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,5,arranger,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,6,composer,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,6,lyricist,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,6,arranger,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,7,composer,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,7,lyricist,梁茹岚,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,7,arranger,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,8,composer,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,8,lyricist,林夕,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,8,arranger,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,9,composer,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,9,lyricist,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,9,arranger,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,10,composer,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,10,lyricist,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,10,arranger,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,11,composer,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,11,lyricist,周耀辉,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,11,arranger,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,12,composer,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,12,lyricist,方大同; 梁茹岚,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,百度百科仅记「方大同」；维基多记「梁茹嵐」，采用维基详版；已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,12,arranger,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,13,composer,严宽,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,改编自蔡琴同名歌曲，曲署名嚴寬；已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,13,lyricist,严宽; 方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,两来源一致（嚴寬、方大同）；已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,13,arranger,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,14,composer,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,14,lyricist,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2005 - Soulboy,14,arranger,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,*,date,2011-07-13,https://musicbrainz.org/release/9b9c3101-9e98-4f80-b4c9-fd7cb87fd390,2026-10-06,绑定发行版（美版数字）日期，与 2 个文件内嵌标签一致；官方首发为 2011-04-21（台湾）/04-26（香港），中文维基与百度百科均作 2011-04-21
+2011 - 15,*,genre,国语流行; 蓝调摇滚,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,原文「國語流行音樂、藍調搖滾」；百度百科作 R&B/蓝调，一致
+2011 - 15,*,tracklist_check,1-12 与 MusicBrainz 曲目一一对应；2 个带内嵌标签的文件录音 ID 2/2 吻合,https://musicbrainz.org/release/9b9c3101-9e98-4f80-b4c9-fd7cb87fd390,2026-10-06,
+2011 - 15,*,release_id,9b9c3101-9e98-4f80-b4c9-fd7cb87fd390,https://musicbrainz.org/release/9b9c3101-9e98-4f80-b4c9-fd7cb87fd390,2026-10-06,
+2011 - 15,*,release_group_id,4480f179-9852-4149-a829-abc6c9d2274c,https://musicbrainz.org/release/9b9c3101-9e98-4f80-b4c9-fd7cb87fd390,2026-10-06,
+2011 - 15,*,artist_id,081f97c3-2ae9-4698-aa43-88ccb58af4d5,https://musicbrainz.org/release/9b9c3101-9e98-4f80-b4c9-fd7cb87fd390,2026-10-06,
+2011 - 15,*,country,US,https://musicbrainz.org/release/9b9c3101-9e98-4f80-b4c9-fd7cb87fd390,2026-10-06,
+2011 - 15,*,matched_title,15,https://musicbrainz.org/release/9b9c3101-9e98-4f80-b4c9-fd7cb87fd390,2026-10-06,
+2011 - 15,*,source_url,https://musicbrainz.org/release/9b9c3101-9e98-4f80-b4c9-fd7cb87fd390,https://musicbrainz.org/release/9b9c3101-9e98-4f80-b4c9-fd7cb87fd390,2026-10-06,
+2011 - 15,*,label,,https://musicbrainz.org/release/9b9c3101-9e98-4f80-b4c9-fd7cb87fd390,2026-10-06,该发行版 MusicBrainz 未提供厂牌；实体版为华纳唱片（华纳唱片香港）
+2011 - 15,*,barcode,,https://musicbrainz.org/release/9b9c3101-9e98-4f80-b4c9-fd7cb87fd390,2026-10-06,MusicBrainz 未提供条形码
+2011 - 15,1,composer,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,1,lyricist,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,1,arranger,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,2,composer,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,2,lyricist,多多; 方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,方大同为 Rap 词（维基/百科一致：多多、方大同（Rap词））；已与百度百科（wap 版直读）交叉核对
+2011 - 15,2,arranger,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,3,composer,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,3,lyricist,方大同; Ghost Style,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,Ghost Style 为 Rap 词（两来源一致）；已与百度百科（wap 版直读）交叉核对
+2011 - 15,3,arranger,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,4,composer,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,4,lyricist,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,4,arranger,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,5,composer,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,5,lyricist,农夫,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,5,arranger,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,6,composer,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,6,lyricist,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,6,arranger,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,7,composer,方大同; Edward Chan,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,7,lyricist,崔惟楷,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,7,arranger,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,8,composer,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,8,lyricist,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,8,arranger,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,9,composer,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,9,lyricist,崔惟楷,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,9,arranger,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,10,composer,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,10,lyricist,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,10,arranger,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,11,composer,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,11,lyricist,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,11,arranger,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,12,composer,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+2011 - 15,12,lyricist,,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,演奏曲目无词；两来源作词栏标注不一致（维基称纯音乐，百科填方大同），不采信为作词
+2011 - 15,12,arranger,方大同,https://zh.wikipedia.org/wiki/15_(方大同專輯),2026-10-06,维基该栏存疑（纯音乐/隐藏曲目），百科作方大同；采用百科；已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],*,date,2016-09-28,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,内嵌标签与维基/百科一致
+2016-JTW 西游记（BLACK）[flac],*,genre,流行; 节奏蓝调; Electropop,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,原文「流行音樂、節奏藍調、Electropop」；内嵌标签作 Electropop/R&B 一致
+2016-JTW 西游记（BLACK）[flac],*,album,JTW 西遊記,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,采用官方繁体标题（与替换后文件内嵌标签一致）；本地文件夹名为简体
+2016-JTW 西游记（BLACK）[flac],*,tracktotal,11,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,官方 Disc1 共 11 轨（第 11 轨为「悟空 2003 Demo (Bonus Track)」）；本库未收录该附赠曲（文件为 1-10）
+2016-JTW 西游记（BLACK）[flac],*,tracklist_check,1-10 与 MusicBrainz Disc1 一一对应；内嵌录音 ID 抽查 2/2 吻合；缺官方第 11 轨附赠曲,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（BLACK）[flac],*,release_id,af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（BLACK）[flac],*,release_group_id,b837745d-0dfa-4bbd-8112-dd5e3a4a947e,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（BLACK）[flac],*,artist_id,081f97c3-2ae9-4698-aa43-88ccb58af4d5,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（BLACK）[flac],*,label,FU MUSIC,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（BLACK）[flac],*,country,TW,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（BLACK）[flac],*,catalog_number,OBTAKF16A1,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（BLACK）[flac],*,barcode,4710891491554,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（BLACK）[flac],*,matched_title,JTW 西遊記,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（BLACK）[flac],*,source_url,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（BLACK）[flac],*,disc,BLACK,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,本目录对应官方双碟之 Disc 1
+2016-JTW 西游记（BLACK）[flac],1,composer,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],1,lyricist,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],1,arranger,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],2,composer,方大同; 王力宏,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],2,lyricist,方大同; 王力宏,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],2,arranger,方大同; Derrick Sepnio,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],3,composer,方大同; Derrick Sepnio,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],3,lyricist,C君; 方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,百度百科仅记「C君」；维基多记「方大同」，采用维基详版；已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],3,arranger,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],4,composer,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],4,lyricist,方大同; Crush; Zion.T,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],4,arranger,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],5,composer,方大同; 周锡汉,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],5,lyricist,崔惟楷; 方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,百度百科作「小崔」（即崔惟楷）；已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],5,arranger,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],6,composer,方大同; Derrick Sepnio,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],6,lyricist,崔惟楷; Derrick Sepnio,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,百度百科作「小崔、Derrick Sepnio」（小崔即崔惟楷）；已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],6,arranger,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],7,composer,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],7,lyricist,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],7,arranger,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],8,composer,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],8,lyricist,周耀辉,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],8,arranger,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],9,composer,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],9,lyricist,崔惟楷; 方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,百度百科作「方大同、小崔」（小崔即崔惟楷）；已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],9,arranger,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],10,composer,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],10,lyricist,方大同; 杭盖,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（BLACK）[flac],10,arranger,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],*,date,2016-09-28,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,内嵌标签与维基/百科一致
+2016-JTW 西游记（GOLD）[flac],*,genre,流行; 节奏蓝调; Electropop,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,原文「流行音樂、節奏藍調、Electropop」；内嵌标签作 Electropop/R&B 一致
+2016-JTW 西游记（GOLD）[flac],*,album,JTW 西遊記,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,采用官方繁体标题（与替换后文件内嵌标签一致）；本地文件夹名为简体
+2016-JTW 西游记（GOLD）[flac],*,tracklist_check,1-10 与 MusicBrainz Disc2 一一对应；替换文件自带与 MB 一致的完整标签,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（GOLD）[flac],*,release_id,af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（GOLD）[flac],*,release_group_id,b837745d-0dfa-4bbd-8112-dd5e3a4a947e,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（GOLD）[flac],*,artist_id,081f97c3-2ae9-4698-aa43-88ccb58af4d5,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（GOLD）[flac],*,label,FU MUSIC,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（GOLD）[flac],*,country,TW,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（GOLD）[flac],*,catalog_number,OBTAKF16A1,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（GOLD）[flac],*,barcode,4710891491554,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（GOLD）[flac],*,matched_title,JTW 西遊記,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（GOLD）[flac],*,source_url,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,
+2016-JTW 西游记（GOLD）[flac],*,disc,GOLD,https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5,2026-10-06,本目录对应官方双碟之 Disc 2
+2016-JTW 西游记（GOLD）[flac],1,composer,方大同; Derrick Sepnio,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],1,lyricist,崔惟楷; 方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,百度百科作「小崔、方大同」（小崔即崔惟楷）；已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],1,arranger,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],2,composer,Derrick Sepnio,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],2,lyricist,崔惟楷; Derrick Sepnio,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,百度百科作「小崔、Derrick Sepnio」（小崔即崔惟楷）；已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],2,arranger,方大同; Derrick Sepnio,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],3,composer,方大同; Derrick Sepnio,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],3,lyricist,方大同; Fifi Rong,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],3,arranger,Derrick Sepnio,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],4,composer,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],4,lyricist,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],4,arranger,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],5,composer,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],5,lyricist,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],5,arranger,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],6,composer,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],6,lyricist,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],6,arranger,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],7,composer,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],7,lyricist,C君,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],7,arranger,Derrick Sepnio; 方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],8,composer,方大同; Derrick Sepnio,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],8,lyricist,C君; 方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,百度百科表仅记「C君」、后文另注「C君/方大同」，采用维基详版；已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],8,arranger,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],9,composer,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],9,lyricist,C君,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],9,arranger,,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,两来源均未提供编曲署名（维基表留空），不采信为其他值
+2016-JTW 西游记（GOLD）[flac],10,composer,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],10,lyricist,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2016-JTW 西游记（GOLD）[flac],10,arranger,方大同,https://zh.wikipedia.org/wiki/JTW_西遊記,2026-10-06,已与百度百科（wap 版直读）交叉核对
+2008 - 橙月 Orange Moon[flac],*,date,2008-12-19,https://zh.wikipedia.org/wiki/橙月,2026-10-06,首版日期（维基+文件内嵌一致）；绑定发行版 12 轨为 2009-02-13 香港慶功版；另有来源作 2008-12-27。采用 2008-12-19
+2008 - 橙月 Orange Moon[flac],*,genre,国语流行; 节奏蓝调,https://zh.wikipedia.org/wiki/橙月,2026-10-06,原文「國語流行音樂、節奏藍調」；替换文件内嵌作 Contemporary R&B/Mandopop/Pop Soul（一致）
+2008 - 橙月 Orange Moon[flac],*,tracklist_check,1-12 与 MusicBrainz 12 轨版一一对应（含隐藏曲 Orange Moon）；10 个替换文件的音频与本地残缺件重叠段 100% 逐样本一致,https://musicbrainz.org/release/e6e84a0b-fd40-4139-b446-47224a105767,2026-10-06,替换来源 tteokbokki 的 2009 HK 版与 zqr/erxm 补充源
+2008 - 橙月 Orange Moon[flac],*,release_id,e6e84a0b-fd40-4139-b446-47224a105767,https://musicbrainz.org/release/e6e84a0b-fd40-4139-b446-47224a105767,2026-10-06,
+2008 - 橙月 Orange Moon[flac],*,release_group_id,d2809a5e-7f44-43ca-815a-2b0fa4d0dbdf,https://musicbrainz.org/release/e6e84a0b-fd40-4139-b446-47224a105767,2026-10-06,
+2008 - 橙月 Orange Moon[flac],*,artist_id,081f97c3-2ae9-4698-aa43-88ccb58af4d5,https://musicbrainz.org/release/e6e84a0b-fd40-4139-b446-47224a105767,2026-10-06,
+2008 - 橙月 Orange Moon[flac],*,label,Warner Music Hong Kong,https://musicbrainz.org/release/e6e84a0b-fd40-4139-b446-47224a105767,2026-10-06,
+2008 - 橙月 Orange Moon[flac],*,country,HK,https://musicbrainz.org/release/e6e84a0b-fd40-4139-b446-47224a105767,2026-10-06,
+2008 - 橙月 Orange Moon[flac],*,matched_title,橙月,https://musicbrainz.org/release/e6e84a0b-fd40-4139-b446-47224a105767,2026-10-06,
+2008 - 橙月 Orange Moon[flac],*,source_url,https://musicbrainz.org/release/e6e84a0b-fd40-4139-b446-47224a105767,https://musicbrainz.org/release/e6e84a0b-fd40-4139-b446-47224a105767,2026-10-06,
+2008 - 橙月 Orange Moon[flac],*,barcode,,https://musicbrainz.org/release/e6e84a0b-fd40-4139-b446-47224a105767,2026-10-06,MusicBrainz 未提供条形码
+2008 - 橙月 Orange Moon[flac],1,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],1,lyricist,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,英语歌曲（两来源一致）；已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],1,arranger,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],2,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],2,lyricist,农夫,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],2,arranger,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],3,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],3,lyricist,葛大为,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],3,arranger,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],4,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],4,lyricist,周耀辉,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],4,arranger,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],5,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],5,lyricist,方大同; 徐若瑄,https://zh.wikipedia.org/wiki/橙月,2026-10-06,百度百科仅记「徐若瑄」；维基多记「方大同」，采用维基详版；已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],5,arranger,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],6,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],6,lyricist,周耀辉,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],6,arranger,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],7,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],7,lyricist,崔惟楷,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],7,arranger,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],8,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],8,lyricist,林夕,https://zh.wikipedia.org/wiki/橙月,2026-10-06,Cartier「Love Project」歌曲；2009 年华南银行广告主题曲；已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],8,arranger,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],9,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],9,lyricist,崔惟楷,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],9,arranger,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],10,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],10,lyricist,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],10,arranger,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],11,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],11,lyricist,马嵩惟,https://zh.wikipedia.org/wiki/橙月,2026-10-06,《Singalongsong》国语版；已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],11,arranger,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],12,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],12,lyricist,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,隐藏曲目；陈奕迅《倒带人生》英文 Demo；已与百度百科（经搜索呈现直读）交叉核对
+2008 - 橙月 Orange Moon[flac],12,arranger,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,已与百度百科（经搜索呈现直读）交叉核对
+Timeless 可啦思刻,*,date,2009-08-11,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,首版日期（维基与百科一致）；绑定发行版为 2009-10-09 典藏限定版（含第 11 轨附赠曲），文本采用首版日期
+Timeless 可啦思刻,*,genre,国语流行; 英语流行; 粤语流行; 翻唱,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,原文「國語流行音樂、英語流行音樂、粵語流行音樂、西班牙語流行音樂」；另按性质加注「翻唱」
+Timeless 可啦思刻,*,tracklist_check,1-11 与 MusicBrainz 特别版 CD 一一对应（含第 11 轨附赠曲「月亮代表我的心」）,https://musicbrainz.org/release/bc9e68eb-caa0-4353-8880-0a357d83550e,2026-10-06,
+Timeless 可啦思刻,*,release_id,bc9e68eb-caa0-4353-8880-0a357d83550e,https://musicbrainz.org/release/bc9e68eb-caa0-4353-8880-0a357d83550e,2026-10-06,
+Timeless 可啦思刻,*,release_group_id,5854d35b-ea30-4167-9205-b8346bb6fdd3,https://musicbrainz.org/release/bc9e68eb-caa0-4353-8880-0a357d83550e,2026-10-06,
+Timeless 可啦思刻,*,artist_id,081f97c3-2ae9-4698-aa43-88ccb58af4d5,https://musicbrainz.org/release/bc9e68eb-caa0-4353-8880-0a357d83550e,2026-10-06,
+Timeless 可啦思刻,*,label,Warner Music Hong Kong,https://musicbrainz.org/release/bc9e68eb-caa0-4353-8880-0a357d83550e,2026-10-06,
+Timeless 可啦思刻,*,country,HK,https://musicbrainz.org/release/bc9e68eb-caa0-4353-8880-0a357d83550e,2026-10-06,
+Timeless 可啦思刻,*,catalog_number,5051865-5144-5-9,https://musicbrainz.org/release/bc9e68eb-caa0-4353-8880-0a357d83550e,2026-10-06,
+Timeless 可啦思刻,*,barcode,5051865514459,https://musicbrainz.org/release/bc9e68eb-caa0-4353-8880-0a357d83550e,2026-10-06,
+Timeless 可啦思刻,*,matched_title,Timeless 可啦思刻,https://musicbrainz.org/release/bc9e68eb-caa0-4353-8880-0a357d83550e,2026-10-06,
+Timeless 可啦思刻,*,source_url,https://musicbrainz.org/release/bc9e68eb-caa0-4353-8880-0a357d83550e,https://musicbrainz.org/release/bc9e68eb-caa0-4353-8880-0a357d83550e,2026-10-06,
+Timeless 可啦思刻,1,composer,Stevie Wonder,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,1,lyricist,Stevie Wonder,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,原唱 Stevie Wonder（feat. 黄韵玲）；英语歌曲；已与百度百科交叉核对
+Timeless 可啦思刻,1,arranger,方大同,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,2,composer,Michael Masser; Gerald Goffin,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,百度百科作曲栏留空；采用维基署名（亦与 MB 一致）；已与百度百科交叉核对
+Timeless 可啦思刻,2,lyricist,Michael Masser; Gerald Goffin,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,原唱有 George Benson（维基）/ Glenn Medeiros（百科）两说；已与百度百科交叉核对
+Timeless 可啦思刻,2,arranger,方大同,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,3,composer,Michael Jackson,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,3,lyricist,Michael Jackson,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,原唱 Michael Jackson；已与百度百科交叉核对
+Timeless 可啦思刻,3,arranger,方大同,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,4,composer,顾嘉煇,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,4,lyricist,黄霑,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,粤语歌曲；原唱关菊英（方大同唯一正式发行的粤语歌曲）；已与百度百科交叉核对
+Timeless 可啦思刻,4,arranger,方大同,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,5,composer,Ritchie Valens,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,5,lyricist,Ritchie Valens,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,西班牙语歌曲；原唱 Ritchie Valens；已与百度百科交叉核对
+Timeless 可啦思刻,5,arranger,方大同,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,6,composer,柳重言,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,6,lyricist,林夕,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,原唱王菲；已与百度百科交叉核对
+Timeless 可啦思刻,6,arranger,方大同,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,7,composer,Hoagy Carmichael; Stuart Gorrell,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,7,lyricist,Hoagy Carmichael; Stuart Gorrell,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,原唱 Ray Charles（维基）/ 列为 Ray Charles（百科）；已与百度百科交叉核对
+Timeless 可啦思刻,7,arranger,方大同,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,8,composer,林俊杰,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,8,lyricist,易家扬,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,原唱张惠妹；已与百度百科交叉核对
+Timeless 可啦思刻,8,arranger,方大同,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,9,composer,Eric Clapton,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,9,lyricist,Eric Clapton,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,原唱 Eric Clapton；已与百度百科交叉核对
+Timeless 可啦思刻,9,arranger,方大同,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,10,composer,Henry Mancini,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,10,lyricist,Johnny Mercer,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,原唱 Audrey Hepburn（电影《蒂凡尼的早餐》）；已与百度百科交叉核对
+Timeless 可啦思刻,10,arranger,方大同,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+Timeless 可啦思刻,11,composer,翁清溪,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,维基条目表格将曲/词署名颠倒（其条目自身未说明）；百度百科与歌曲通行归属均为曲·翁清溪／词·孙仪，采用后者；已与百度百科交叉核对
+Timeless 可啦思刻,11,lyricist,孙仪,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,原唱邓丽君；系特别版（CD+DVD）附赠曲；已与百度百科交叉核对
+Timeless 可啦思刻,11,arranger,Edward Chan; 方大同,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,已与百度百科交叉核对
+未来,*,date,2007-12-28,https://musicbrainz.org/release/ea9c47d7-7162-4618-9282-2f2c441c0d2d,2026-10-06,首版日期（维基/百科一致）；第二版为 2008-03-29
+未来,*,genre,国语流行; 节奏蓝调; 灵魂乐,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,维基作「國語流行音樂、節奏藍調」；百科作 R&B/流行音乐/灵魂乐，合并记录
+未来,*,arranger,方大同,https://wapbaike.baidu.com/item/《未来》/2899441,2026-10-06,百科直读：方大同「包办了作曲、编曲、演奏、录音、制作和部分曲目的作词」；维基表格残缺但第 1 首明示编曲方大同
+未来,*,tracklist_check,1-11 与 MusicBrainz 首版一一对应,https://musicbrainz.org/release/ea9c47d7-7162-4618-9282-2f2c441c0d2d,2026-10-06,
+未来,*,release_id,ea9c47d7-7162-4618-9282-2f2c441c0d2d,https://musicbrainz.org/release/ea9c47d7-7162-4618-9282-2f2c441c0d2d,2026-10-06,
+未来,*,release_group_id,b7e6e827-1f15-3252-97f2-aa9aeb99d144,https://musicbrainz.org/release/ea9c47d7-7162-4618-9282-2f2c441c0d2d,2026-10-06,
+未来,*,artist_id,081f97c3-2ae9-4698-aa43-88ccb58af4d5,https://musicbrainz.org/release/ea9c47d7-7162-4618-9282-2f2c441c0d2d,2026-10-06,
+未来,*,label,Warner Music Hong Kong,https://musicbrainz.org/release/ea9c47d7-7162-4618-9282-2f2c441c0d2d,2026-10-06,
+未来,*,country,HK,https://musicbrainz.org/release/ea9c47d7-7162-4618-9282-2f2c441c0d2d,2026-10-06,
+未来,*,catalog_number,50-51442-6533-2-8,https://musicbrainz.org/release/ea9c47d7-7162-4618-9282-2f2c441c0d2d,2026-10-06,
+未来,*,barcode,5051442653328,https://musicbrainz.org/release/ea9c47d7-7162-4618-9282-2f2c441c0d2d,2026-10-06,
+未来,*,matched_title,未來,https://musicbrainz.org/release/ea9c47d7-7162-4618-9282-2f2c441c0d2d,2026-10-06,
+未来,*,source_url,https://musicbrainz.org/release/ea9c47d7-7162-4618-9282-2f2c441c0d2d,https://musicbrainz.org/release/ea9c47d7-7162-4618-9282-2f2c441c0d2d,2026-10-06,
+未来,1,composer,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,1,lyricist,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,1,arranger,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,2,composer,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,2,lyricist,方大同; 梁茹岚,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,百科直读：梁茹岚为方大同母亲，因方大同当时中文表达不便而合作填词；已与百度百科（wap 版直读）交叉核对
+未来,2,arranger,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,3,composer,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,3,lyricist,周耀辉,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,3,arranger,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,4,composer,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,4,lyricist,周耀辉,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,4,arranger,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,5,composer,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,5,lyricist,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,5,arranger,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,6,composer,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,6,lyricist,农夫,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,6,arranger,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,7,composer,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,7,lyricist,周耀辉,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,维基与百科直读一致；已与百度百科（wap 版直读）交叉核对
+未来,7,arranger,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,8,composer,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,8,lyricist,农夫,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,8,arranger,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,9,composer,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,9,lyricist,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,9,arranger,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,10,composer,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,10,lyricist,娃娃,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,10,arranger,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,11,composer,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+未来,11,lyricist,周耀辉,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,原版收录于《爱爱爱》专辑；已与百度百科（wap 版直读）交叉核对
+未来,11,arranger,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,已与百度百科（wap 版直读）交叉核对
+Timeless演唱会 2CD/CD1,*,date,2009-11-27,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,维基与 MB 一致（演出：2009-08-27~29 香港会展）
+Timeless演唱会 2CD/CD1,*,album,Timeless 演唱会,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,文件夹名为「Timeless演唱会 2CD」，标签统一为「Timeless 演唱会」
+Timeless演唱会 2CD/CD1,*,genre,国语流行; 英语流行; 现场,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,维基类型「國語流行音樂、英語流行音樂、西班牙語流行音樂」；按性质注「现场」
+Timeless演唱会 2CD/CD1,*,tracklist_check,CD1 共 17 轨，与 MusicBrainz 31 轨官方版逐条对应；其中 9 首（本次补齐）与本地原有 22 首共同构成完整 31 轨,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,
+Timeless演唱会 2CD/CD1,*,credits_method,现场版词曲署名映射自录音室原曲,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,演唱会专辑公开来源未逐曲提供完整词曲表；本账逐轨指向对应录音室专辑的来源（演唱会条目可见署名处已逐条比对吻合）
+Timeless演唱会 2CD/CD1,*,release_id,37797095-922b-46eb-8ca9-10c678872f51,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,
+Timeless演唱会 2CD/CD1,*,release_group_id,c1f67e87-1692-4518-8121-036371c6cb38,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,
+Timeless演唱会 2CD/CD1,*,artist_id,081f97c3-2ae9-4698-aa43-88ccb58af4d5,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,
+Timeless演唱会 2CD/CD1,*,label,Warner Music Hong Kong,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,
+Timeless演唱会 2CD/CD1,*,matched_title,Timeless Live in Hong Kong 2009,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,
+Timeless演唱会 2CD/CD1,*,source_url,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,
+Timeless演唱会 2CD/CD1,*,barcode,,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,MusicBrainz 未提供条形码/编号
+Timeless演唱会 2CD/CD1,1,composer,Edward Chan,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,现场专辑条目：曲 Edward Chan；纯音乐
+Timeless演唱会 2CD/CD1,1,lyricist,,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,未查到
+Timeless演唱会 2CD/CD1,1,arranger,,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,未查到
+Timeless演唱会 2CD/CD1,2,composer,Michael Jackson,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 3 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,2,lyricist,Michael Jackson,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 3 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,2,arranger,,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 3 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,3,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 3 首（演唱会条目可见署名同）
+Timeless演唱会 2CD/CD1,3,lyricist,葛大为,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 3 首（演唱会条目可见署名同）
+Timeless演唱会 2CD/CD1,3,arranger,,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 3 首（演唱会条目可见署名同）
+Timeless演唱会 2CD/CD1,4,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 5 首
+Timeless演唱会 2CD/CD1,4,lyricist,方大同; 徐若瑄,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 5 首
+Timeless演唱会 2CD/CD1,4,arranger,,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 5 首
+Timeless演唱会 2CD/CD1,5,composer,林俊杰,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 8 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,5,lyricist,易家扬,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 8 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,5,arranger,,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 8 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,6,composer,Michael Masser; Gerald Goffin,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 2 首
+Timeless演唱会 2CD/CD1,6,lyricist,Michael Masser; Gerald Goffin,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 2 首
+Timeless演唱会 2CD/CD1,6,arranger,,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 2 首
+Timeless演唱会 2CD/CD1,7,composer,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,映射自《Soulboy》第 3 首；现场专辑条目另注曲含 Minnie Riperton、Richard Rudolph（现场版含 Lovin' You 段落），未采信为该曲主署名
+Timeless演唱会 2CD/CD1,7,lyricist,周耀辉,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,映射自《Soulboy》第 3 首；现场专辑条目另注曲含 Minnie Riperton、Richard Rudolph（现场版含 Lovin' You 段落），未采信为该曲主署名
+Timeless演唱会 2CD/CD1,7,arranger,,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,映射自《Soulboy》第 3 首；现场专辑条目另注曲含 Minnie Riperton、Richard Rudolph（现场版含 Lovin' You 段落），未采信为该曲主署名
+Timeless演唱会 2CD/CD1,8,composer,Michael Jackson,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,演唱会条目：Michael Jackson
+Timeless演唱会 2CD/CD1,8,lyricist,Michael Jackson,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,演唱会条目：Michael Jackson
+Timeless演唱会 2CD/CD1,8,arranger,,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,演唱会条目：Michael Jackson
+Timeless演唱会 2CD/CD1,9,composer,Michael Jackson,https://en.wikipedia.org/wiki/Who_Is_It_(song),2026-10-06,英文维基百科歌曲条目（演唱会条目未列）
+Timeless演唱会 2CD/CD1,9,lyricist,Michael Jackson,https://en.wikipedia.org/wiki/Who_Is_It_(song),2026-10-06,英文维基百科歌曲条目（演唱会条目未列）
+Timeless演唱会 2CD/CD1,9,arranger,,https://en.wikipedia.org/wiki/Who_Is_It_(song),2026-10-06,英文维基百科歌曲条目（演唱会条目未列）
+Timeless演唱会 2CD/CD1,10,composer,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,映射自《爱爱爱》第 3 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,10,lyricist,林夕,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,映射自《爱爱爱》第 3 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,10,arranger,,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,映射自《爱爱爱》第 3 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,11,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 8 首
+Timeless演唱会 2CD/CD1,11,lyricist,林夕,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 8 首
+Timeless演唱会 2CD/CD1,11,arranger,,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 8 首
+Timeless演唱会 2CD/CD1,12,composer,方大同,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,映射自《Soulboy》第 8 首
+Timeless演唱会 2CD/CD1,12,lyricist,林夕,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,映射自《Soulboy》第 8 首
+Timeless演唱会 2CD/CD1,12,arranger,,https://zh.wikipedia.org/wiki/Soulboy,2026-10-06,映射自《Soulboy》第 8 首
+Timeless演唱会 2CD/CD1,13,composer,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,映射自《未来》第 1 首
+Timeless演唱会 2CD/CD1,13,lyricist,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,映射自《未来》第 1 首
+Timeless演唱会 2CD/CD1,13,arranger,,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,映射自《未来》第 1 首
+Timeless演唱会 2CD/CD1,14,composer,柳重言,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 6 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,14,lyricist,林夕,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 6 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,14,arranger,,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 6 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,15,composer,Hoagy Carmichael; Stuart Gorrell,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 7 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,15,lyricist,Hoagy Carmichael; Stuart Gorrell,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 7 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,15,arranger,,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 7 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,16,composer,Henry Mancini,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 10 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,16,lyricist,Johnny Mercer,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 10 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,16,arranger,,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 10 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,17,composer,Eric Clapton,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 9 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,17,lyricist,Eric Clapton,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 9 首（演唱会条目同）
+Timeless演唱会 2CD/CD1,17,arranger,,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 9 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,*,date,2009-11-27,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,维基与 MB 一致（演出：2009-08-27~29 香港会展）
+Timeless演唱会 2CD/CD2,*,album,Timeless 演唱会,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,文件夹名为「Timeless演唱会 2CD」，标签统一为「Timeless 演唱会」
+Timeless演唱会 2CD/CD2,*,genre,国语流行; 英语流行; 现场,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,维基类型「國語流行音樂、英語流行音樂、西班牙語流行音樂」；按性质注「现场」
+Timeless演唱会 2CD/CD2,*,tracklist_check,CD2 共 14 轨，与 MusicBrainz 31 轨官方版逐条对应；其中 9 首（本次补齐）与本地原有 22 首共同构成完整 31 轨,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,
+Timeless演唱会 2CD/CD2,*,credits_method,现场版词曲署名映射自录音室原曲,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,演唱会专辑公开来源未逐曲提供完整词曲表；本账逐轨指向对应录音室专辑的来源（演唱会条目可见署名处已逐条比对吻合）
+Timeless演唱会 2CD/CD2,*,release_id,37797095-922b-46eb-8ca9-10c678872f51,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,
+Timeless演唱会 2CD/CD2,*,release_group_id,c1f67e87-1692-4518-8121-036371c6cb38,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,
+Timeless演唱会 2CD/CD2,*,artist_id,081f97c3-2ae9-4698-aa43-88ccb58af4d5,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,
+Timeless演唱会 2CD/CD2,*,label,Warner Music Hong Kong,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,
+Timeless演唱会 2CD/CD2,*,matched_title,Timeless Live in Hong Kong 2009,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,
+Timeless演唱会 2CD/CD2,*,source_url,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,
+Timeless演唱会 2CD/CD2,*,barcode,,https://musicbrainz.org/release/37797095-922b-46eb-8ca9-10c678872f51,2026-10-06,MusicBrainz 未提供条形码/编号
+Timeless演唱会 2CD/CD2,1,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 7 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,1,lyricist,崔惟楷,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 7 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,1,arranger,,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 7 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,2,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 10 首
+Timeless演唱会 2CD/CD2,2,lyricist,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 10 首
+Timeless演唱会 2CD/CD2,2,arranger,,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 10 首
+Timeless演唱会 2CD/CD2,3,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 4 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,3,lyricist,周耀辉,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 4 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,3,arranger,,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 4 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,4,composer,"Al Green; Al Jackson, Jr.; Willie Mitchell",https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,演唱会条目：Al Green、Al Jackson Jr.、Willie Mitchell
+Timeless演唱会 2CD/CD2,4,lyricist,"Al Green; Al Jackson, Jr.; Willie Mitchell",https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,演唱会条目：Al Green、Al Jackson Jr.、Willie Mitchell
+Timeless演唱会 2CD/CD2,4,arranger,,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,演唱会条目：Al Green、Al Jackson Jr.、Willie Mitchell
+Timeless演唱会 2CD/CD2,5,composer,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,映射自《未来》第 5 首
+Timeless演唱会 2CD/CD2,5,lyricist,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,映射自《未来》第 5 首
+Timeless演唱会 2CD/CD2,5,arranger,,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,映射自《未来》第 5 首
+Timeless演唱会 2CD/CD2,6,composer,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,映射自《爱爱爱》第 10 首（演唱会条目可见梁茹岚）
+Timeless演唱会 2CD/CD2,6,lyricist,方大同; 梁茹岚,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,映射自《爱爱爱》第 10 首（演唱会条目可见梁茹岚）
+Timeless演唱会 2CD/CD2,6,arranger,,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,映射自《爱爱爱》第 10 首（演唱会条目可见梁茹岚）
+Timeless演唱会 2CD/CD2,7,composer,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,映射自《未来》第 6 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,7,lyricist,农夫,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,映射自《未来》第 6 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,7,arranger,,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,映射自《未来》第 6 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,8,composer,方大同,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,映射自《未来》第 8 首
+Timeless演唱会 2CD/CD2,8,lyricist,农夫,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,映射自《未来》第 8 首
+Timeless演唱会 2CD/CD2,8,arranger,,https://zh.wikipedia.org/wiki/未來_(方大同專輯),2026-10-06,映射自《未来》第 8 首
+Timeless演唱会 2CD/CD2,9,composer,,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,现场即兴纯音乐，演唱会条目未提供词曲署名（留空）
+Timeless演唱会 2CD/CD2,9,lyricist,,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,现场即兴纯音乐，演唱会条目未提供词曲署名（留空）
+Timeless演唱会 2CD/CD2,9,arranger,,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,现场即兴纯音乐，演唱会条目未提供词曲署名（留空）
+Timeless演唱会 2CD/CD2,10,composer,Ritchie Valens,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 5 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,10,lyricist,Ritchie Valens,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 5 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,10,arranger,,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 5 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,11,composer,Stevie Wonder,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 1 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,11,lyricist,Stevie Wonder,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 1 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,11,arranger,,https://zh.wikipedia.org/wiki/Timeless_可啦思刻,2026-10-06,映射自《Timeless 可啦思刻》第 1 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,12,composer,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 1 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,12,lyricist,方大同,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 1 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,12,arranger,,https://zh.wikipedia.org/wiki/橙月,2026-10-06,映射自《橙月》第 1 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,13,composer,方大同,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,映射自《爱爱爱》第 1 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,13,lyricist,周耀辉,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,映射自《爱爱爱》第 1 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,13,arranger,,https://zh.wikipedia.org/wiki/愛愛愛,2026-10-06,映射自《爱爱爱》第 1 首（演唱会条目同）
+Timeless演唱会 2CD/CD2,14,composer,Edward Chan,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,现场专辑条目：Edward Chan；纯音乐
+Timeless演唱会 2CD/CD2,14,lyricist,,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,未查到
+Timeless演唱会 2CD/CD2,14,arranger,,https://zh.wikipedia.org/wiki/Timeless_演唱會Live專輯,2026-10-06,未查到
+危险世界,*,date,2014-04-11,https://musicbrainz.org/release/048bfde1-44b8-41ff-b57a-dc1ac0beea66,2026-10-06,维基与百科一致（3 月 19 日起预购）
+危险世界,*,genre,国语流行; Electropop,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,原文「國語流行音樂、Electropop」
+危险世界,*,tracklist_check,1-16 与 MusicBrainz 一一对应（第 16 轨 16:56 含隐藏曲《无题》）,https://musicbrainz.org/release/048bfde1-44b8-41ff-b57a-dc1ac0beea66,2026-10-06,
+危险世界,*,release_id,048bfde1-44b8-41ff-b57a-dc1ac0beea66,https://musicbrainz.org/release/048bfde1-44b8-41ff-b57a-dc1ac0beea66,2026-10-06,
+危险世界,*,release_group_id,adead8fc-6f6a-4243-ad3f-71184d105bd5,https://musicbrainz.org/release/048bfde1-44b8-41ff-b57a-dc1ac0beea66,2026-10-06,
+危险世界,*,artist_id,081f97c3-2ae9-4698-aa43-88ccb58af4d5,https://musicbrainz.org/release/048bfde1-44b8-41ff-b57a-dc1ac0beea66,2026-10-06,
+危险世界,*,label,GNOF LIMITED,https://musicbrainz.org/release/048bfde1-44b8-41ff-b57a-dc1ac0beea66,2026-10-06,维基作发行公司「金牌大風」（加盟该公司唯一一张专辑）
+危险世界,*,country,TW,https://musicbrainz.org/release/048bfde1-44b8-41ff-b57a-dc1ac0beea66,2026-10-06,
+危险世界,*,catalog_number,471 412766 881 9,https://musicbrainz.org/release/048bfde1-44b8-41ff-b57a-dc1ac0beea66,2026-10-06,
+危险世界,*,barcode,4714127668819,https://musicbrainz.org/release/048bfde1-44b8-41ff-b57a-dc1ac0beea66,2026-10-06,
+危险世界,*,matched_title,危險世界,https://musicbrainz.org/release/048bfde1-44b8-41ff-b57a-dc1ac0beea66,2026-10-06,
+危险世界,*,source_url,https://musicbrainz.org/release/048bfde1-44b8-41ff-b57a-dc1ac0beea66,https://musicbrainz.org/release/048bfde1-44b8-41ff-b57a-dc1ac0beea66,2026-10-06,
+危险世界,1,composer,,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,纯音乐曲目，来源未提供词曲署名（留空）
+危险世界,1,lyricist,,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,纯音乐曲目，来源未提供词曲署名（留空）
+危险世界,1,arranger,,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,纯音乐曲目，来源未提供词曲署名（留空）
+危险世界,2,composer,方大同,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,2,lyricist,方大同,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,2,arranger,方大同; Derrick Sepnio,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,3,composer,方大同,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,英语歌曲；Feat. 袁娅维；已与百度百科交叉核对
+危险世界,3,lyricist,方大同,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,英语歌曲；Feat. 袁娅维；已与百度百科交叉核对
+危险世界,3,arranger,方大同; Derrick Sepnio,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,英语歌曲；Feat. 袁娅维；已与百度百科交叉核对
+危险世界,4,composer,方大同; 李春波,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,4,lyricist,方大同; C君; 李春波,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,4,arranger,方大同; Derrick Sepnio,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,5,composer,,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,纯音乐曲目，来源未提供词曲署名（留空）
+危险世界,5,lyricist,,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,纯音乐曲目，来源未提供词曲署名（留空）
+危险世界,5,arranger,,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,纯音乐曲目，来源未提供词曲署名（留空）
+危险世界,6,composer,方大同,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,6,lyricist,崔惟楷,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,百科宣传资料作「小崔」（即崔惟楷）；已与百度百科交叉核对
+危险世界,6,arranger,方大同; Derrick Sepnio,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,7,composer,方大同,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,7,lyricist,小广,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,7,arranger,方大同; Derrick Sepnio,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,8,composer,方大同,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,8,lyricist,方大同,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,8,arranger,Derrick Sepnio,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,9,composer,,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,纯音乐曲目，来源未提供词曲署名（留空）
+危险世界,9,lyricist,,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,纯音乐曲目，来源未提供词曲署名（留空）
+危险世界,9,arranger,,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,纯音乐曲目，来源未提供词曲署名（留空）
+危险世界,10,composer,方大同,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,10,lyricist,方大同,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,百科摘要未展开，采用维基；已与百度百科交叉核对
+危险世界,10,arranger,方大同,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,11,composer,方大同; Edward Chan; T-ma,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,百科作本名「陈浩然、马敬恒」（即 Edward Chan、T-ma）；已与百度百科交叉核对
+危险世界,11,lyricist,小寒,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,11,arranger,方大同; Derrick Sepnio; Edward Chan,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,维基注监制：Edward Chan；已与百度百科交叉核对
+危险世界,12,composer,,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,纯音乐曲目，来源未提供词曲署名（留空）
+危险世界,12,lyricist,,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,纯音乐曲目，来源未提供词曲署名（留空）
+危险世界,12,arranger,,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,纯音乐曲目，来源未提供词曲署名（留空）
+危险世界,13,composer,方大同,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,13,lyricist,方大同,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,百科摘要未展开，采用维基；已与百度百科交叉核对
+危险世界,13,arranger,方大同,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,14,composer,方大同,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,百科摘要未展开，采用维基；已与百度百科交叉核对
+危险世界,14,lyricist,C君; 葛仲珊,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,Feat. 葛仲珊；已与百度百科交叉核对
+危险世界,14,arranger,方大同; Derrick Sepnio,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,Feat. 葛仲珊；已与百度百科交叉核对
+危险世界,15,composer,方大同; Derrick Sepnio,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,15,lyricist,崔惟楷,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,15,arranger,方大同; Derrick Sepnio,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,已与百度百科交叉核对
+危险世界,16,composer,方大同; Fergus Chow,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,英语歌曲；16:56 时长内含嵌入隐藏曲《无题》(2:56，纯音乐)；已与百度百科交叉核对
+危险世界,16,lyricist,方大同; Fergus Chow,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,英语歌曲；16:56 时长内含嵌入隐藏曲《无题》(2:56，纯音乐)；已与百度百科交叉核对
+危险世界,16,arranger,,https://zh.wikipedia.org/wiki/危險世界,2026-10-06,维基该栏未提及（留空）
+回到未来,*,date,2012-12-12,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,首版日期（维基与百科一致）；绑定发行版（数字版，MB）记 2012-11-23；改版 2013-01-26
+回到未来,*,genre,国语流行; 节奏蓝调,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,原文「國語流行音樂、節奏藍調」
+回到未来,*,arranger,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,维基全局署名：全碟编曲方大同；百科一致
+回到未来,*,tracklist_check,1-11 与 MusicBrainz 一一对应,https://musicbrainz.org/release/03e5eeb1-be7d-47a0-a54f-daac581f2fba,2026-10-06,
+回到未来,*,release_id,03e5eeb1-be7d-47a0-a54f-daac581f2fba,https://musicbrainz.org/release/03e5eeb1-be7d-47a0-a54f-daac581f2fba,2026-10-06,
+回到未来,*,release_group_id,ef3d047c-aa89-419f-953f-850bd9765fb0,https://musicbrainz.org/release/03e5eeb1-be7d-47a0-a54f-daac581f2fba,2026-10-06,
+回到未来,*,artist_id,081f97c3-2ae9-4698-aa43-88ccb58af4d5,https://musicbrainz.org/release/03e5eeb1-be7d-47a0-a54f-daac581f2fba,2026-10-06,
+回到未来,*,label,Warner Music Hong Kong,https://musicbrainz.org/release/03e5eeb1-be7d-47a0-a54f-daac581f2fba,2026-10-06,
+回到未来,*,matched_title,回到未來,https://musicbrainz.org/release/03e5eeb1-be7d-47a0-a54f-daac581f2fba,2026-10-06,
+回到未来,*,source_url,https://musicbrainz.org/release/03e5eeb1-be7d-47a0-a54f-daac581f2fba,https://musicbrainz.org/release/03e5eeb1-be7d-47a0-a54f-daac581f2fba,2026-10-06,
+回到未来,1,composer,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,1,lyricist,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,1,arranger,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,2,composer,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,2,lyricist,C君,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,2,arranger,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,3,composer,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,3,lyricist,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,3,arranger,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,4,composer,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,4,lyricist,方文山,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,4,arranger,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,5,composer,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,5,lyricist,娃娃,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,5,arranger,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,6,composer,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,6,lyricist,C君,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,6,arranger,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,7,composer,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,7,lyricist,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,7,arranger,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,8,composer,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,8,lyricist,崔惟楷,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,百科注其别名「Luke skywalker Tsui」；已与百度百科交叉核对
+回到未来,8,arranger,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,9,composer,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,9,lyricist,农夫,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,为方大同母亲而写的歌曲（百科注）；已与百度百科交叉核对
+回到未来,9,arranger,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,10,composer,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,10,lyricist,崔惟楷,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,10,arranger,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,11,composer,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,11,lyricist,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+回到未来,11,arranger,方大同,https://zh.wikipedia.org/wiki/回到未來_(方大同專輯),2026-10-06,已与百度百科交叉核对
+梦想家 The Dreamer,*,date,2024-10-18,https://musicbrainz.org/release/decb48fe-b689-4165-88b4-cc020ed1c6a9,2026-10-06,维基与 MB 一致；方大同生前最后一张专辑
+梦想家 The Dreamer,*,genre,国语流行; 节奏蓝调,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,原文「國語流行音樂、節奏藍調」
+梦想家 The Dreamer,*,tracklist_check,1-10 与 MusicBrainz 一一对应,https://musicbrainz.org/release/decb48fe-b689-4165-88b4-cc020ed1c6a9,2026-10-06,
+梦想家 The Dreamer,*,credits_method,全碟词曲编均为方大同（维基全局署名），唯《回留》作词为崔惟楷例外,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,维基条目 6 条引注含 Apple Music/媒体报道
+梦想家 The Dreamer,*,release_id,decb48fe-b689-4165-88b4-cc020ed1c6a9,https://musicbrainz.org/release/decb48fe-b689-4165-88b4-cc020ed1c6a9,2026-10-06,
+梦想家 The Dreamer,*,release_group_id,70d5aba0-f357-4b27-a39b-b4d0018fba0c,https://musicbrainz.org/release/decb48fe-b689-4165-88b4-cc020ed1c6a9,2026-10-06,
+梦想家 The Dreamer,*,artist_id,081f97c3-2ae9-4698-aa43-88ccb58af4d5,https://musicbrainz.org/release/decb48fe-b689-4165-88b4-cc020ed1c6a9,2026-10-06,
+梦想家 The Dreamer,*,label,FU MUSIC,https://musicbrainz.org/release/decb48fe-b689-4165-88b4-cc020ed1c6a9,2026-10-06,
+梦想家 The Dreamer,*,country,CN,https://musicbrainz.org/release/decb48fe-b689-4165-88b4-cc020ed1c6a9,2026-10-06,
+梦想家 The Dreamer,*,barcode,196872543742,https://musicbrainz.org/release/decb48fe-b689-4165-88b4-cc020ed1c6a9,2026-10-06,
+梦想家 The Dreamer,*,matched_title,梦想家 The Dreamer,https://musicbrainz.org/release/decb48fe-b689-4165-88b4-cc020ed1c6a9,2026-10-06,
+梦想家 The Dreamer,*,source_url,https://musicbrainz.org/release/decb48fe-b689-4165-88b4-cc020ed1c6a9,https://musicbrainz.org/release/decb48fe-b689-4165-88b4-cc020ed1c6a9,2026-10-06,
+梦想家 The Dreamer,1,composer,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,1,lyricist,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,1,arranger,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,2,composer,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,2,lyricist,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,2,arranger,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,3,composer,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,3,lyricist,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,3,arranger,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,4,composer,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,4,lyricist,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,4,arranger,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,5,composer,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,5,lyricist,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,5,arranger,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,6,composer,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,6,lyricist,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,6,arranger,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,7,composer,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,7,lyricist,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,7,arranger,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,8,composer,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,8,lyricist,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,8,arranger,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,9,composer,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,9,lyricist,崔惟楷,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,全碟唯一作词例外（维基注「例外」）
+梦想家 The Dreamer,9,arranger,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,10,composer,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,10,lyricist,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+梦想家 The Dreamer,10,arranger,方大同,https://zh.wikipedia.org/wiki/夢想家_The_Dreamer,2026-10-06,
+2013 - The Soulboy Collection/Disc 1,*,date,2013-11-26,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,内嵌标签/维基/MB 一致
+2013 - The Soulboy Collection/Disc 1,*,genre,国语流行; 英语流行; 精选,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,维基类型「國語流行音樂、英語流行音樂」；精选集属性加注「精选」
+2013 - The Soulboy Collection/Disc 1,*,tracklist_check,Disc 1 共 18 轨，与 MusicBrainz 2×18 官方版一致；36 个文件内嵌 MBID 与官方版相互印证,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 1,*,credits_method,词曲编直接采用精选集词条表格，并逐条与各原专辑账交叉核对一致,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,唯《月亮代表我的心》按更正的曲词归属记录（详见该轨备注）
+2013 - The Soulboy Collection/Disc 1,*,release_id,93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 1,*,release_group_id,a36a9f81-e469-4767-8730-f30d609b94fd,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 1,*,artist_id,081f97c3-2ae9-4698-aa43-88ccb58af4d5,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 1,*,label,Warner Music Hong Kong,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 1,*,country,HK,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 1,*,catalog_number,5054196009120,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 1,*,barcode,5054196009120,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 1,*,matched_title,The Soulboy Collection,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 1,*,source_url,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 1,1,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：Soulboy；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,1,lyricist,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：Soulboy；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,1,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：Soulboy；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,2,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：Soulboy；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,2,lyricist,周耀辉,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：Soulboy；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,2,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：Soulboy；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,3,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：Soulboy；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,3,lyricist,林夕,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：Soulboy；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,3,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：Soulboy；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,4,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：Soulboy；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,4,lyricist,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：Soulboy；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,4,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：Soulboy；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,5,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：Soulboy；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,5,lyricist,娃娃,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：Soulboy；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,5,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：Soulboy；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,6,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：爱爱爱；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,6,lyricist,周耀辉,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：爱爱爱；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,6,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：爱爱爱；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,7,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：爱爱爱；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,7,lyricist,周耀辉,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：爱爱爱；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,7,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：爱爱爱；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,8,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：爱爱爱；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,8,lyricist,林夕,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：爱爱爱；feat. 薛凱琪；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,8,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：爱爱爱；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,9,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：爱爱爱；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,9,lyricist,林夕,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：爱爱爱；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,9,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：爱爱爱；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,10,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：爱爱爱；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,10,lyricist,林夕,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：爱爱爱；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,10,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：爱爱爱；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,11,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,11,lyricist,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,11,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,12,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,12,lyricist,方大同; 梁茹岚,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：未来；维基作「茹嵐」（即梁茹岚）；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,12,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,13,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,13,lyricist,娃娃,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,13,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,14,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,14,lyricist,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,14,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,15,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,15,lyricist,周耀辉,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,15,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,16,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：橙月；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,16,lyricist,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：橙月；英语歌曲（维基表作「Sing along song」）；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,16,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：橙月；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,17,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：橙月；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,17,lyricist,农夫,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：橙月；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,17,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：橙月；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,18,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：橙月；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,18,lyricist,林夕,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：橙月；Song for Cartier 'Love Project'；华南 Love 卡广告主题曲；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 1,18,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：橙月；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,*,date,2013-11-26,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,内嵌标签/维基/MB 一致
+2013 - The Soulboy Collection/Disc 2,*,genre,国语流行; 英语流行; 精选,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,维基类型「國語流行音樂、英語流行音樂」；精选集属性加注「精选」
+2013 - The Soulboy Collection/Disc 2,*,tracklist_check,Disc 2 共 18 轨，与 MusicBrainz 2×18 官方版一致；36 个文件内嵌 MBID 与官方版相互印证,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 2,*,credits_method,词曲编直接采用精选集词条表格，并逐条与各原专辑账交叉核对一致,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,唯《月亮代表我的心》按更正的曲词归属记录（详见该轨备注）
+2013 - The Soulboy Collection/Disc 2,*,release_id,93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 2,*,release_group_id,a36a9f81-e469-4767-8730-f30d609b94fd,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 2,*,artist_id,081f97c3-2ae9-4698-aa43-88ccb58af4d5,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 2,*,label,Warner Music Hong Kong,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 2,*,country,HK,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 2,*,catalog_number,5054196009120,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 2,*,barcode,5054196009120,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 2,*,matched_title,The Soulboy Collection,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 2,*,source_url,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,https://musicbrainz.org/release/93bdc7c7-d1aa-4eee-8ea8-dfb1372cd8e6,2026-10-06,
+2013 - The Soulboy Collection/Disc 2,1,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：橙月；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,1,lyricist,崔惟楷,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：橙月；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,1,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：橙月；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,2,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：橙月；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,2,lyricist,葛大为,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：橙月；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,2,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：橙月；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,3,composer,Michael Masser; Gerald Goffin,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：可啦思刻；英语；原唱 George Benson；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,3,lyricist,Michael Masser; Gerald Goffin,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：可啦思刻；英语；原唱 George Benson；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,3,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：可啦思刻；英语；原唱 George Benson；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,4,composer,翁清溪,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：可啦思刻；维基表格曲/词颠倒；采用更正归属（曲：翁清溪／词：孙仪），与《可啦思刻》账一致；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,4,lyricist,孙仪,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：可啦思刻；原唱邓丽君；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,4,arranger,Edward Chan; 方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：可啦思刻；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,5,composer,柳重言,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：可啦思刻；原唱王菲；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,5,lyricist,林夕,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：可啦思刻；原唱王菲；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,5,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：可啦思刻；原唱王菲；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,6,composer,Eric Clapton,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：可啦思刻；原唱 Eric Clapton；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,6,lyricist,Eric Clapton,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：可啦思刻；原唱 Eric Clapton；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,6,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：可啦思刻；原唱 Eric Clapton；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,7,composer,Stevie Wonder,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：可啦思刻；原唱 Stevie Wonder；feat. 黃韻玲；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,7,lyricist,Stevie Wonder,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：可啦思刻；原唱 Stevie Wonder；feat. 黃韻玲；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,7,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：可啦思刻；原唱 Stevie Wonder；feat. 黃韻玲；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,8,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：15；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,8,lyricist,方大同; Ghost Style,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：15；Ghost Style 为 Rap 词；feat. Ghost Style；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,8,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：15；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,9,composer,方大同; Edward Chan,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：15；feat. 徐佳瑩；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,9,lyricist,崔惟楷,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：15；feat. 徐佳瑩；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,9,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：15；feat. 徐佳瑩；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,10,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：15；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,10,lyricist,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：15；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,10,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：15；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,11,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：15；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,11,lyricist,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：15；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,11,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：15；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,12,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：15；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,12,lyricist,农夫,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：15；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,12,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：15；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,13,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：回到未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,13,lyricist,方文山,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：回到未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,13,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：回到未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,14,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：回到未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,14,lyricist,崔惟楷,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：回到未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,14,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：回到未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,15,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：回到未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,15,lyricist,崔惟楷,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：回到未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,15,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：回到未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,16,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：回到未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,16,lyricist,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：回到未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,16,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：回到未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,17,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：回到未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,17,lyricist,娃娃,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：回到未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,17,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：回到未来；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,18,composer,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：（精选集新曲）；首次收录于 CD；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,18,lyricist,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：（精选集新曲）；首次收录于 CD；已与原专辑账交叉核对
+2013 - The Soulboy Collection/Disc 2,18,arranger,方大同,https://zh.wikipedia.org/wiki/The_Soulboy_Collection,2026-10-06,原专辑：（精选集新曲）；首次收录于 CD；已与原专辑账交叉核对

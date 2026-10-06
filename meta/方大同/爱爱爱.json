@@ -1,0 +1,206 @@
+{
+  "folder": "爱爱爱",
+  "album": "爱爱爱",
+  "date": "2006-12-29",
+  "year": 2006,
+  "genre": [
+    "国语流行",
+    "节奏蓝调"
+  ],
+  "musicbrainz": {
+    "release_id": "4d75d211-4c47-4ea0-a8c1-6c537ae79e1e",
+    "release_group_id": "c78cf5af-3a6a-3ab1-a06b-5457059b91a7",
+    "artist_id": "081f97c3-2ae9-4698-aa43-88ccb58af4d5",
+    "label": "wea",
+    "country": "HK",
+    "catalog_number": "50-51011-9545-2-8",
+    "barcode": "5051011954528",
+    "matched_title": "愛愛愛 (This Love)",
+    "source_url": "https://musicbrainz.org/release/4d75d211-4c47-4ea0-a8c1-6c537ae79e1e"
+  },
+  "tracks": {
+    "1": {
+      "title": "爱爱爱",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "a1451ce9-aef6-4a7c-b338-bfd9842b6e6c",
+      "musicbrainz_releasetrack_id": "69d7e359-3952-481e-8259-475b54798df7"
+    },
+    "2": {
+      "title": "苏丽珍",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "f8a2a909-a8b9-4548-9c38-ff0d42a74678",
+      "musicbrainz_releasetrack_id": "81f01f1c-a66c-4d6d-b9e3-06ea5979c71d"
+    },
+    "3": {
+      "title": "歌手与模特儿",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "林夕"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "2b1d9a74-20b6-4043-b3e5-9e3d2b3474e1",
+      "musicbrainz_releasetrack_id": "22703103-1f73-4686-bc86-02fe29e1ce1d"
+    },
+    "4": {
+      "title": "唉!",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "农夫"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "5f747c27-7978-4f87-b688-2d6c5d46e963",
+      "musicbrainz_releasetrack_id": "78094c9b-2d61-42a1-bfd9-25d332396e38"
+    },
+    "5": {
+      "title": "四人游",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "林夕"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "adc4e64f-fa14-4f05-b920-8a9a20e3d6b0",
+      "musicbrainz_releasetrack_id": "6ffd3246-8977-480f-9209-89e13b05f137"
+    },
+    "6": {
+      "title": "手拖手",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同",
+        "梁茹岚"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "b6b1afdf-a3bc-4d54-975b-0d527efa8692",
+      "musicbrainz_releasetrack_id": "9cb52355-2b52-4c1b-b9ba-37ca25e44eb6"
+    },
+    "7": {
+      "title": "偷笑",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "963e8d93-5393-427f-8e09-ffc883e5026d",
+      "musicbrainz_releasetrack_id": "1c99a81c-96ee-4335-9294-c1b5267cd867"
+    },
+    "8": {
+      "title": "Goodbye Melody Rose",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "a7b5f1f0-7b99-4b0f-88e1-8d8d64526783",
+      "musicbrainz_releasetrack_id": "29c4f775-5802-4dde-b3ac-b5a6252b6e0e"
+    },
+    "9": {
+      "title": "诗人的情人",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "林夕"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "8ea0d914-6859-4142-99a0-abc64d6fc31d",
+      "musicbrainz_releasetrack_id": "fe7271c3-199a-4ac1-9fdc-6ae3179768a2"
+    },
+    "10": {
+      "title": "拖男带女",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同",
+        "梁茹岚"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "7b9594f9-87b8-4081-9d04-e856a6cdc1b4",
+      "musicbrainz_releasetrack_id": "eee90af7-e295-46a9-ab54-d4ccb0d5a2f4"
+    },
+    "11": {
+      "title": "Love Outrolude (Instrumental)",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "801960ad-c6c9-4286-8ebf-07a75c0adf07",
+      "musicbrainz_releasetrack_id": "9ea47d53-73d3-4489-b250-d01d024aae33"
+    },
+    "12": {
+      "title": "If You Leave Me Now",
+      "composer": [
+        "Peter Cetera"
+      ],
+      "lyricist": [
+        "Peter Cetera"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "1651d6fd-ab6a-4342-9404-9229479e3288",
+      "musicbrainz_releasetrack_id": "ba62974f-4637-48ad-80ea-11eeced68905"
+    },
+    "13": {
+      "title": "春风吹之吹吹风mix",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [
+        "方大同",
+        "Edward Chan"
+      ],
+      "musicbrainz_recording_id": "4cb825fe-1587-46c1-b8f2-734760cb4e1b",
+      "musicbrainz_releasetrack_id": "bd6bccb4-95bd-4825-a9c5-73a12c653c24"
+    }
+  }
+}

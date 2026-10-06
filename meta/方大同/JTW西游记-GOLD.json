@@ -1,0 +1,175 @@
+{
+  "folder": "2016-JTW 西游记（GOLD）[flac]",
+  "album": "JTW 西遊記",
+  "disc": "GOLD",
+  "date": "2016-09-28",
+  "year": 2016,
+  "genre": [
+    "流行",
+    "节奏蓝调",
+    "Electropop"
+  ],
+  "discnumber": 2,
+  "disctotal": 2,
+  "tracktotal": 10,
+  "musicbrainz": {
+    "release_id": "af20c198-0e7c-4bb7-96d0-4bc7bd609ad5",
+    "release_group_id": "b837745d-0dfa-4bbd-8112-dd5e3a4a947e",
+    "artist_id": "081f97c3-2ae9-4698-aa43-88ccb58af4d5",
+    "label": "FU MUSIC",
+    "country": "TW",
+    "catalog_number": "OBTAKF16A1",
+    "barcode": "4710891491554",
+    "matched_title": "JTW 西遊記",
+    "source_url": "https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5"
+  },
+  "tracks": {
+    "1": {
+      "title": "All Night",
+      "composer": [
+        "方大同",
+        "Derrick Sepnio"
+      ],
+      "lyricist": [
+        "崔惟楷",
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "6256d771-1dbf-4999-9d8a-1550798f159f",
+      "musicbrainz_releasetrack_id": "fcd3ae02-eb30-4e75-873a-7db6c20b8f46"
+    },
+    "2": {
+      "title": "Right Girl",
+      "composer": [
+        "Derrick Sepnio"
+      ],
+      "lyricist": [
+        "崔惟楷",
+        "Derrick Sepnio"
+      ],
+      "arranger": [
+        "方大同",
+        "Derrick Sepnio"
+      ],
+      "musicbrainz_recording_id": "671df004-5a41-4285-9871-cae4ddcf0871",
+      "musicbrainz_releasetrack_id": "051c22c9-6474-40ff-8aae-a41f44a08ff4"
+    },
+    "3": {
+      "title": "Run From Your Love",
+      "composer": [
+        "方大同",
+        "Derrick Sepnio"
+      ],
+      "lyricist": [
+        "方大同",
+        "Fifi Rong"
+      ],
+      "arranger": [
+        "Derrick Sepnio"
+      ],
+      "musicbrainz_recording_id": "1ed79329-74df-4a98-a4ec-78fcd8dba578",
+      "musicbrainz_releasetrack_id": "acc28575-73f2-4388-a8e3-8a61e208dda0"
+    },
+    "4": {
+      "title": "烦",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "fc59962f-04ec-48d2-aad7-16f968dde42a",
+      "musicbrainz_releasetrack_id": "f250fae8-7a32-48ca-a91d-580e18cb296c"
+    },
+    "5": {
+      "title": "Once",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "979f42e7-0dc8-4f36-bb0b-aaa909e5bd62",
+      "musicbrainz_releasetrack_id": "ed778be0-910f-416d-9230-e5a18121ca31"
+    },
+    "6": {
+      "title": "无所谓",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "3a36537d-11de-4f52-a2ff-0fa9816f7d6e",
+      "musicbrainz_releasetrack_id": "c2312e5e-5a43-4b21-91e8-2a229d7e9522"
+    },
+    "7": {
+      "title": "黑夜",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "C君"
+      ],
+      "arranger": [
+        "Derrick Sepnio",
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "74972934-d5e1-4002-9e1c-5545fd87283e",
+      "musicbrainz_releasetrack_id": "8f03b192-668d-4523-9965-7e71b45a8187"
+    },
+    "8": {
+      "title": "很不低调",
+      "composer": [
+        "方大同",
+        "Derrick Sepnio"
+      ],
+      "lyricist": [
+        "C君",
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "71a1cf85-a80c-46dd-ac36-07a7bec36320",
+      "musicbrainz_releasetrack_id": "fb9e67d6-9993-499e-923b-a952ebfa9d29"
+    },
+    "9": {
+      "title": "放不过自己",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "C君"
+      ],
+      "arranger": [],
+      "musicbrainz_recording_id": "49baad35-0c96-4042-b0f0-4fb2b27e8eb4",
+      "musicbrainz_releasetrack_id": "8291149d-3e2d-4706-bb71-1e0c5801e53e"
+    },
+    "10": {
+      "title": "As I Do",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "1a23e01c-2de5-45e5-96bf-fde576d34b1a",
+      "musicbrainz_releasetrack_id": "b588dc4d-db78-4229-af55-bb508d12eb8a"
+    }
+  }
+}

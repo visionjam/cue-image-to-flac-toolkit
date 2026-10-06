@@ -1,0 +1,179 @@
+{
+  "folder": "未来",
+  "album": "未来",
+  "date": "2007-12-28",
+  "year": 2007,
+  "genre": [
+    "国语流行",
+    "节奏蓝调",
+    "灵魂乐"
+  ],
+  "musicbrainz": {
+    "release_id": "ea9c47d7-7162-4618-9282-2f2c441c0d2d",
+    "release_group_id": "b7e6e827-1f15-3252-97f2-aa9aeb99d144",
+    "artist_id": "081f97c3-2ae9-4698-aa43-88ccb58af4d5",
+    "label": "Warner Music Hong Kong",
+    "country": "HK",
+    "catalog_number": "50-51442-6533-2-8",
+    "barcode": "5051442653328",
+    "matched_title": "未來",
+    "source_url": "https://musicbrainz.org/release/ea9c47d7-7162-4618-9282-2f2c441c0d2d"
+  },
+  "tracks": {
+    "1": {
+      "title": "Love Song",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "e95d05ef-1529-48de-a29e-ad310c53acf8",
+      "musicbrainz_releasetrack_id": "6bb94704-7f4a-3607-9369-e08bdc5b4446"
+    },
+    "2": {
+      "title": "够不够",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同",
+        "梁茹岚"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "93f63b39-41c7-40f2-9ad2-7b994e84a218",
+      "musicbrainz_releasetrack_id": "f432f7bc-5190-3f7d-8319-c2c127882dea"
+    },
+    "3": {
+      "title": "暖",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "07f3b2bc-ae38-4c78-bd1f-834ad085d33d",
+      "musicbrainz_releasetrack_id": "6d770ccc-602c-35e5-8928-65ce95edad07"
+    },
+    "4": {
+      "title": "爱在",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "dfca17d0-aafc-449f-8911-a73350c3feab",
+      "musicbrainz_releasetrack_id": "6a47d241-90ca-329d-8bd0-5119ff937a1d"
+    },
+    "5": {
+      "title": "公园",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "ce4c6cd7-b063-4808-a764-b1fcd7fb0726",
+      "musicbrainz_releasetrack_id": "1055cf87-93a8-3b09-87b4-4ad74338b0ad"
+    },
+    "6": {
+      "title": "简单最浪漫",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "农夫"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "29de235d-c136-4176-b093-2f00cbc0df3e",
+      "musicbrainz_releasetrack_id": "8a0f1a9c-af30-3904-8334-cc9553896a53"
+    },
+    "7": {
+      "title": "十九八七…",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "81c705f3-eb92-4e81-9bb6-9e8f19ccfda2",
+      "musicbrainz_releasetrack_id": "f7427969-e94e-309e-a52e-e973ea2314a0"
+    },
+    "8": {
+      "title": "未来",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "农夫"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "8aa076f6-1a49-4b98-8950-19b8e6cda0ba",
+      "musicbrainz_releasetrack_id": "a4032188-d5e1-3a22-8f6d-984acf5afed6"
+    },
+    "9": {
+      "title": "忘了美丽",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "ae565249-0cd8-4993-adb6-c22aae2fe288",
+      "musicbrainz_releasetrack_id": "991465d6-b267-356d-bcf9-3ff93346c0b0"
+    },
+    "10": {
+      "title": "Sorry",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "娃娃"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "7e858384-ef2d-46db-bed0-524cc5ba0218",
+      "musicbrainz_releasetrack_id": "c38e37e5-1311-3fad-9d5b-5896594cbf63"
+    },
+    "11": {
+      "title": "爱爱爱 (Acoustic Version)",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "ed91a780-4734-45ed-b1f1-33b9d91d0547",
+      "musicbrainz_releasetrack_id": "0bc688a4-cc52-359b-9550-1e11834ee384"
+    }
+  }
+}

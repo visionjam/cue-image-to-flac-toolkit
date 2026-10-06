@@ -1,0 +1,181 @@
+{
+  "folder": "2016-JTW 西游记（BLACK）[flac]",
+  "album": "JTW 西遊記",
+  "disc": "BLACK",
+  "date": "2016-09-28",
+  "year": 2016,
+  "genre": [
+    "流行",
+    "节奏蓝调",
+    "Electropop"
+  ],
+  "discnumber": 1,
+  "disctotal": 2,
+  "tracktotal": 11,
+  "musicbrainz": {
+    "release_id": "af20c198-0e7c-4bb7-96d0-4bc7bd609ad5",
+    "release_group_id": "b837745d-0dfa-4bbd-8112-dd5e3a4a947e",
+    "artist_id": "081f97c3-2ae9-4698-aa43-88ccb58af4d5",
+    "label": "FU MUSIC",
+    "country": "TW",
+    "catalog_number": "OBTAKF16A1",
+    "barcode": "4710891491554",
+    "matched_title": "JTW 西遊記",
+    "source_url": "https://musicbrainz.org/release/af20c198-0e7c-4bb7-96d0-4bc7bd609ad5"
+  },
+  "tracks": {
+    "1": {
+      "title": "悟空",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "78a9e7f8-f10c-49f1-a39a-6f5e6fae5f2a",
+      "musicbrainz_releasetrack_id": "c1ee74c8-baae-45ca-9d18-359c789400a8"
+    },
+    "2": {
+      "title": "Flow",
+      "composer": [
+        "方大同",
+        "王力宏"
+      ],
+      "lyricist": [
+        "方大同",
+        "王力宏"
+      ],
+      "arranger": [
+        "方大同",
+        "Derrick Sepnio"
+      ],
+      "musicbrainz_recording_id": "01c1e4f4-8cf8-4c27-b6fd-febdc3ba9f8b",
+      "musicbrainz_releasetrack_id": "d4970b45-0b70-4ddf-add0-45bca4779c4b"
+    },
+    "3": {
+      "title": "听",
+      "composer": [
+        "方大同",
+        "Derrick Sepnio"
+      ],
+      "lyricist": [
+        "C君",
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "14e9c093-7c97-4c0a-b4e0-94ab86c5efcc",
+      "musicbrainz_releasetrack_id": "5d7bfafa-0ffb-40f8-a383-7ae9683c8e76"
+    },
+    "4": {
+      "title": "味道",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同",
+        "Crush",
+        "Zion.T"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "fdb49c2f-6885-43f6-b50a-02aa86eb9977",
+      "musicbrainz_releasetrack_id": "eb4b2298-00c1-4f28-aae8-db45b47f525d"
+    },
+    "5": {
+      "title": "Ring Finger",
+      "composer": [
+        "方大同",
+        "周锡汉"
+      ],
+      "lyricist": [
+        "崔惟楷",
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "8a5a5b76-10c7-48c2-b3e4-16aa69fc2e2e",
+      "musicbrainz_releasetrack_id": "e317b7f7-d80b-44f7-8625-46c0b9e3b7a8"
+    },
+    "6": {
+      "title": "NMW",
+      "composer": [
+        "方大同",
+        "Derrick Sepnio"
+      ],
+      "lyricist": [
+        "崔惟楷",
+        "Derrick Sepnio"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "1f4fe1ed-ad34-4748-942b-6ff8d5dea0ec",
+      "musicbrainz_releasetrack_id": "02492c34-ff7b-42d3-b763-580881ff7a88"
+    },
+    "7": {
+      "title": "笑开",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "1386f53f-510a-43f2-b13c-ca013239f927",
+      "musicbrainz_releasetrack_id": "1105d8c6-d8f0-47b3-9347-822494d21745"
+    },
+    "8": {
+      "title": "梦蝴蝶",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "周耀辉"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "a15c7c3b-fdc2-448d-8b6b-8399af7bd1a9",
+      "musicbrainz_releasetrack_id": "4f2980b4-cf66-4e6b-8f10-1f13fd0d003a"
+    },
+    "9": {
+      "title": "Love You So Much",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "崔惟楷",
+        "方大同"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "b22c69c5-80f3-41da-bb4e-04a9a6a2d766",
+      "musicbrainz_releasetrack_id": "ed634d91-fd87-4d21-93be-ddec640ca967"
+    },
+    "10": {
+      "title": "醉",
+      "composer": [
+        "方大同"
+      ],
+      "lyricist": [
+        "方大同",
+        "杭盖"
+      ],
+      "arranger": [
+        "方大同"
+      ],
+      "musicbrainz_recording_id": "23fe448d-2bb1-45e2-aa9f-bac17f3af525",
+      "musicbrainz_releasetrack_id": "042dc667-9542-4fc1-9a3c-6a708f4c4d5a"
+    }
+  }
+}
