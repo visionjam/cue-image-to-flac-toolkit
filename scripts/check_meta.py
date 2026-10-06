@@ -13,7 +13,10 @@ CREDIT_FIELDS = ("composer", "lyricist", "arranger")
 MB_FIELDS = ("release_id", "release_group_id", "artist_id", "label",
              "country", "catalog_number", "barcode", "matched_title", "source_url")
 TOP_KEYS = {"folder", "album", "date", "year", "musicbrainz", "tracks"}
-TRACK_KEYS = {"title"} | set(CREDIT_FIELDS)
+# 逐轨录音/发行轨 ID 属绑定发行版本体信息（其来源 URL 已记于专辑级 provenance 行），
+# 不另立逐轨来源行；其余逐轨键均须有来源行支撑。
+TRACK_MB_FIELDS = ("musicbrainz_recording_id", "musicbrainz_releasetrackid")
+TRACK_KEYS = {"title"} | set(CREDIT_FIELDS) | set(TRACK_MB_FIELDS)
 NOT_FOUND = "未查到"
 
 
@@ -25,11 +28,12 @@ def load_provenance(csv_path: Path) -> dict[tuple[str, str, str], dict]:
     return prov
 
 
-def check_album(meta_path: Path, cue_path: Path, provenance: dict) -> list[str]:
+def check_album(meta_path: Path, cue_path: Path | None, provenance: dict) -> list[str]:
+    """cue_path 为 None 时跳过与 CUE 曲目表的交叉核对（适用于无 CUE 的下载组装库）。"""
     problems: list[str] = []
     meta = json.loads(meta_path.read_text(encoding="utf-8"))
     folder = meta.get("folder", "")
-    cue = cuelib.parse_cue(cue_path)
+    cue = cuelib.parse_cue(cue_path) if cue_path else None
 
     unknown = set(meta) - TOP_KEYS
     if unknown:
@@ -37,9 +41,9 @@ def check_album(meta_path: Path, cue_path: Path, provenance: dict) -> list[str]:
     if not meta.get("album") or not meta.get("year"):
         problems.append("album/year missing")
 
-    cue_nums = {str(t.number): t.title for t in cue.tracks}
+    cue_nums = {str(t.number): t.title for t in cue.tracks} if cue else {}
     meta_tracks = meta.get("tracks", {})
-    if set(meta_tracks) != set(cue_nums):
+    if cue and set(meta_tracks) != set(cue_nums):
         problems.append(f"track numbers mismatch: meta={sorted(meta_tracks)} cue={sorted(cue_nums)}")
     for num, tmeta in meta_tracks.items():
         unknown_t = set(tmeta) - TRACK_KEYS
@@ -95,11 +99,14 @@ def main(argv=None) -> int:
     for mp in metas:
         folder = mp.stem
         cue_candidates = sorted((src / folder).glob("*.cue"))
-        if not mp.exists() or len(cue_candidates) != 1:
-            print(f"[FAIL] {folder}: meta or cue missing")
+        if not mp.exists():
+            print(f"[FAIL] {folder}: meta missing")
             bad += 1
             continue
-        problems = check_album(mp, cue_candidates[0], provenance)
+        cue = cue_candidates[0] if len(cue_candidates) == 1 else None
+        if cue is None:
+            print(f"[INFO] {folder}: 无唯一 CUE（{len(cue_candidates)} 个），跳过曲目表交叉核对")
+        problems = check_album(mp, cue, provenance)
         print(f"[{'OK ' if not problems else 'FAIL'}] {folder}")
         for p in problems:
             print(f"    - {p}")

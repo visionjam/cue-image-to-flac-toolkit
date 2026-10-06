@@ -10,6 +10,7 @@
 - **GBK 老资源友好**：直接解析 EAC 风格 CUE（含 INDEX 00/01、中文曲名），文件名非法字符全角净化
 - **逐轨无损证明**：每轨输出 FLAC 解码 PCM 的 MD5 与源整轨对应区段的 PCM MD5 **逐字节比对**，不一致即整张失败
 - **元数据体系**：基础标签来自 CUE；补充发行信息（MusicBrainz MBID/厂牌/国家）与逐曲词曲作者经公开来源查证，遵循「查到才写、查不到留空、绝不编造」，每个值附来源 URL（见 `reports/metadata-provenance.csv`）
+- **元数据完善管道**（转换之后的第二阶段，见 `docs/metadata-pipeline.md`）：`mb_lookup.py`（MB 对标）→ `baike_tracklist.py` + 双源交叉核对 → `cover_fetch.py`（CAA/网易云封面双来源）→ `meta_build.py`（spec → meta + 来源账）→ `tag_write.py`（写标签/封面，逐文件「音频逐字节不变 + 解码 PCM MD5 == STREAMINFO」四重证明）；`check_meta.py` 强制「无来源不落盘」
 - **全库独立校验**：`verify.py` 重新解码源文件独立复核（不复用转换中间产物），并生成曲目清单
 - **源目录只读保障**：`source_manifest.py` 处理前后目录清单比对，证明源文件零改动（为做种场景设计）
 
@@ -39,6 +40,27 @@ python scripts/check_meta.py --all
 python scripts/source_manifest.py before <源目录> <清单文件>
 ```
 
+元数据完善管道（第二阶段，方法论见 `docs/metadata-pipeline.md`）：
+
+```bash
+# 1) MusicBrainz 对标：候选发行版检索 / 按 MBID 拉发行版详情
+python scripts/mb_lookup.py --artist "<艺术家>" --album "<专辑名>"
+python scripts/mb_lookup.py --detail <release-mbid> --detail-out <path.json>
+
+# 2) 双源交叉核对：百科词条抓取 + 曲目表解析（合并单元格自动展开）
+python scripts/baike_tracklist.py fetch <词条URL> <out.html> [--proxy http://host:port]
+python scripts/baike_tracklist.py parse <out.html>
+
+# 3) 封面双来源：CAA / 网易云（候选 → 人工目检 → 择一转码）
+python scripts/cover_fetch.py caa-rg <release-group-id> <base> --out-dir covers
+python scripts/cover_fetch.py netease-search "<专辑名> <艺术家>" --out-dir covers
+
+# 4) 编译 meta + 来源账，然后带证明写入（先 --dry-run）
+python scripts/meta_build.py --spec <spec.json> --library-root <专辑父目录>
+python scripts/tag_write.py album --dir <专辑目录> --meta meta/<专辑>.json \
+       --cover covers/<base>-<宽>.jpg --artist "<艺术家>" --dry-run
+```
+
 各脚本 `--help` 有完整参数；`--source-root` / `--output-root` / `--work-root` 均可覆盖（默认值按本项目数据集设置）。
 
 ## 目录结构
@@ -47,7 +69,7 @@ python scripts/source_manifest.py before <源目录> <清单文件>
 scripts/    工具链代码与测试（pytest，全部用例在真实 ffmpeg/mutagen 上运行）
 meta/       经查证并审计的专辑元数据（JSON；_ 前缀为原始查询证据）
 reports/    校验报告、曲目清单、元数据来源账、交叉复核报告
-docs/       设计文档、实施计划、封面处理经验（docs/cover-handling.md）
+docs/       设计文档、实施计划、封面处理经验（cover-handling.md）、元数据管道方法论（metadata-pipeline.md）
 ```
 
 ## 无损校验的口径

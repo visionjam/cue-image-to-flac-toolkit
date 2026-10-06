@@ -77,3 +77,18 @@ def test_title_mismatch_fails(tmp_path):
     meta["tracks"]["1"]["title"] = "改错标题"
     mp, cue, prov = _write(tmp_path, meta)
     assert any("title" in p.lower() for p in check_meta.check_album(mp, cue, prov))
+
+
+def test_check_album_without_cue(tmp_path):
+    """无 CUE 的组装库：跳过 CUE 交叉核对，其余规则（来源行）照旧生效。"""
+    mp, cue, prov = _write(tmp_path, GOOD_META)
+    assert check_meta.check_album(mp, None, prov) == []
+
+
+def test_track_mbid_keys_allowed(tmp_path):
+    """逐轨录音/发行轨 ID 属绑定发行版本体信息，允许出现在 meta 中。"""
+    meta = json.loads(json.dumps(GOOD_META))
+    meta["tracks"]["1"]["musicbrainz_recording_id"] = "rec-1"
+    meta["tracks"]["1"]["musicbrainz_releasetrackid"] = "rt-1"
+    mp, cue, prov = _write(tmp_path, meta)
+    assert check_meta.check_album(mp, cue, prov) == []

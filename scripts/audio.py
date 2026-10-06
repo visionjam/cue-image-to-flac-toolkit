@@ -82,16 +82,30 @@ def wav_segment_md5(path: str | Path, start_frame: int, count: int) -> str:
 _MD5_RE = re.compile(rb"MD5=([0-9a-f]{32})")
 
 
-def flac_pcm_md5(path: str | Path) -> str:
-    # -map 0:a:0: 带内嵌封面的 FLAC 会把图片暴露为第二个流；不限定流时
-    # ffmpeg -f md5 会把图片数据一并计入散列，导致与源 WAV 区段的 PCM MD5 不等。
+_PCM_CODEC_BY_BPS = {8: "pcm_u8", 16: "pcm_s16le", 24: "pcm_s24le", 32: "pcm_s32le"}
+
+
+def flac_pcm_md5_bps(path: str | Path, bits_per_sample: int) -> str:
+    """完整解码 FLAC 音频流的 PCM MD5；以与 STREAMINFO 一致的位深解码，二者可比对。
+
+    -map 0:a:0: 带内嵌封面的 FLAC 会把图片暴露为第二个流；不限定流时
+    ffmpeg -f md5 会把图片数据一并计入散列，导致与源 WAV 区段的 PCM MD5 不等。
+    """
+    codec = _PCM_CODEC_BY_BPS.get(bits_per_sample)
+    if codec is None:
+        raise AudioError(f"unsupported bits_per_sample={bits_per_sample} (expect 8/16/24/32)")
     p = _run([FFMPEG, "-v", "error", "-i", path, "-map", "0:a:0",
-              "-c:a", "pcm_s16le", "-f", "md5", "-"],
+              "-c:a", codec, "-f", "md5", "-"],
              "ffmpeg(md5)")
     m = _MD5_RE.search(p.stdout)
     if not m:
         raise AudioError(f"cannot parse md5 output for {path}")
     return m.group(1).decode("ascii")
+
+
+def flac_pcm_md5(path: str | Path) -> str:
+    """16bit FLAC 的 PCM MD5（历史接口；等价于 flac_pcm_md5_bps(path, 16)）。"""
+    return flac_pcm_md5_bps(path, 16)
 
 
 def probe_audio(path: str | Path) -> dict:

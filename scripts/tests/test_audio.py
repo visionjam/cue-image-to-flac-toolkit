@@ -3,8 +3,8 @@ import subprocess
 
 import pytest
 from audio import (
-    AudioError, decode_to_wav, encode_flac, flac_pcm_md5, probe_audio,
-    slice_wav, wav_info, wav_segment_md5,
+    AudioError, decode_to_wav, encode_flac, flac_pcm_md5, flac_pcm_md5_bps,
+    probe_audio, slice_wav, wav_info, wav_segment_md5,
 )
 
 FFMPEG = "ffmpeg"
@@ -63,3 +63,23 @@ def test_probe_flac(fixture_wav, tmp_path):
     assert int(info["sample_rate"]) == 44100
     assert int(info["channels"]) == 2
     assert abs(float(info["duration"]) - 10.0) < 0.01
+
+
+def test_flac_pcm_md5_bps_24bit(tmp_path):
+    """24bit FLAC：以 pcm_s24le 解码后与源 24bit WAV 区段逐字节一致。"""
+    wav = tmp_path / "full24.wav"
+    subprocess.run(
+        [FFMPEG, "-v", "error", "-y", "-f", "lavfi",
+         "-i", "anoisesrc=d=3:c=pink:seed=7", "-ac", "2", "-ar", "44100",
+         "-c:a", "pcm_s24le", str(wav)],
+        check=True,
+    )
+    flac = tmp_path / "a24.flac"
+    encode_flac(wav, flac)
+    frames = wav_info(wav)[0]
+    assert flac_pcm_md5_bps(flac, 24) == wav_segment_md5(wav, 0, frames)
+
+
+def test_flac_pcm_md5_bps_unsupported_raises(tmp_path):
+    with pytest.raises(AudioError):
+        flac_pcm_md5_bps(tmp_path / "x.flac", 12)
