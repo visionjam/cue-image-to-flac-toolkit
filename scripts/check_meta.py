@@ -12,7 +12,7 @@ import cuelib
 CREDIT_FIELDS = ("composer", "lyricist", "arranger")
 MB_FIELDS = ("release_id", "release_group_id", "artist_id", "label",
              "country", "catalog_number", "barcode", "matched_title", "source_url")
-TOP_KEYS = {"folder", "album", "date", "year", "musicbrainz", "tracks"}
+TOP_KEYS = {"folder", "album", "date", "year", "genre", "musicbrainz", "tracks"}
 # 逐轨录音/发行轨 ID 属绑定发行版本体信息（其来源 URL 已记于专辑级 provenance 行），
 # 不另立逐轨来源行；其余逐轨键均须有来源行支撑。
 TRACK_MB_FIELDS = ("musicbrainz_recording_id", "musicbrainz_releasetrackid")
@@ -85,8 +85,8 @@ def main(argv=None) -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--album", action="append", default=[])
     ap.add_argument("--all", action="store_true")
-    ap.add_argument("--source-root", default=r"E:\陶喆")
-    ap.add_argument("--work-root", default=r"E:\音乐库-工作区")
+    ap.add_argument("--source-root", default=".")
+    ap.add_argument("--work-root", default=".")
     args = ap.parse_args(argv)
     work = Path(args.work_root)
     src = Path(args.source_root)

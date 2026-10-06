@@ -87,7 +87,7 @@ def build(spec: dict, detail: dict, today: str, library_root: Path | None) -> tu
             check_note = (check_note + "；" if check_note else "") + f"注意：库内文件 {n_lib} 个与曲目数不符"
     add("*", "tracklist_check", f"1-{len(tr_spec)} 与 MusicBrainz 一一对应", mb["source_url"], check_note)
     for k in ("release_id", "release_group_id", "artist_id", "label", "country",
-              "catalog_number", "barcode"):
+              "catalog_number", "barcode", "matched_title"):
         v = mb.get(k)
         if v:
             add("*", k, str(v), mb["source_url"], "")
